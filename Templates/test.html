@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="test.css">
+
+
+</head>
+<body>
+    <div id="app"></div>
+    <script src="data.js"></script>
+    <script>
+        $(function(){$("#app").load("record.html"); 
+            });
+        
+            
+          var data_filter = team.filter( element => element.teamname =="Ojas")
+          console.log(data_filter)
+          
+          document.getElementById("app").innerHTML = `
+            <h1 class="app-title">Test</h1>
+            ${data_filter.map(memberTemplate).join("")}
+            <p class="footer">These ${data_filter.length} members were added recently. Check back soon for updates.</p>
+          `;
+          
+        </script>
+</body>
+</html>
