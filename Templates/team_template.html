@@ -1,0 +1,16 @@
+
+    <div id="app"></div>
+    <script>
+        
+        
+            
+          var data_filter = team.filter( element => element.teamname =="write the team name")
+          console.log(data_filter)
+          
+          document.getElementById("app").innerHTML = `
+            <h1 class="app-title">Test</h1>
+            ${data_filter.map(memberTemplate).join("")}
+            <p class="footer">These ${data_filter.length} members were added recently. Check back soon for updates.</p>
+          `;
+          
+        </script>
