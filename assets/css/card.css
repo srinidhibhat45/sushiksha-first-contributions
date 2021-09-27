@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display+SC&display=swap&family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display+SC&display=swap&family=Dancing+Script&display=swap');
 
 body{
   font-family: 'Playfair Display SC', serif;
@@ -95,16 +95,16 @@ font-family: 'Playfair Display SC', serif;
  } */
 
  .quotes{
-   font-weight: bold;
+   font-weight: normal;
    font-size: 25px;
-  font-family: 'Dawning of a New Day', cursive !important;
+   font-family: 'Dancing Script', cursive;
   word-spacing: 2px;
  }
 
- /* .batch{
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: 600;
- } */
+ .batch{
+
+  font-weight: 400;
+ }
 
  /* strong{
   font-family: 'Playfair Display SC', serif;
