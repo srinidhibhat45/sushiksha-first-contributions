@@ -1,6 +1,6 @@
 const team = [
     {
-      teamname:'example',
+      teamname:'Adhwithiya',
       name: "Test1",
       college: "College institue of technology",
       batch: 2016,
@@ -9,7 +9,7 @@ const team = [
       github:"www.google.com"
     },
     {
-      teamname:'example',
+      teamname:'Adhwithiya',
       name: "Test1",
       college: "College institue of technology",
       batch: 2016,
@@ -18,7 +18,7 @@ const team = [
       github:"www.google.com"
     },
     {
-      teamname:'example',
+      teamname:'Adhwithiya',
       name: "Test1",
       college: "College institue of technology",
       batch: 2016,
