@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body{
+	background-color: pink	;
 	font-family: 'Roboto', sans-serif;
 }
-* {
-	margin: 0;
-	padding: 0;
-}
+
 i {
 	margin-right: 10px;
 }

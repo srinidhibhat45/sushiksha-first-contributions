@@ -3,26 +3,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="test.css">
+    <title>Test</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+    integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+    crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../assets/css/card.css">
+    <!-- <link rel="stylesheet" href="../assets/css/style.css"> -->
 
 
 </head>
-<body>
-    <div id="app"></div>
-    <script src="data.js"></script>
+<body style="background-image: url('');">
+  <div class="container profile-page ">
+    <div class="row">
+    <div class="" id="app"></div>
+            </div>
+    </div>
+    <script src="../data.js"></script>
     <script>
-        $(function(){$("#app").load("record.html"); 
-            });
-        
             
-          var data_filter = team.filter( element => element.teamname =="Ojas")
+          var data_filter = team.filter( element => element.teamname =="example")
           console.log(data_filter)
           
           document.getElementById("app").innerHTML = `
-            <h1 class="app-title">Test</h1>
             ${data_filter.map(memberTemplate).join("")}
-            <p class="footer">These ${data_filter.length} members were added recently. Check back soon for updates.</p>
           `;
           
         </script>
