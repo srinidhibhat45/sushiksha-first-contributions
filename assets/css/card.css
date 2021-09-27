@@ -1,8 +1,14 @@
 
-/* body{
-  margin-top:20px;
-  background:rgb(255, 255, 255);    
-} */
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display+SC&display=swap&family=Homemade+Apple&display=swap');
+
+body{
+  font-family: 'Playfair Display SC', serif;
+}
+
+p {
+  
+}
+
 a {
   color: #f96332;
 }
@@ -19,7 +25,7 @@ a {
   display: inline-block;
   position: relative;
   width: 100%;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   background: rgba(255,255,255,0.4);
   backdrop-filter: blur(10px);
   border-radius: 10px;
@@ -75,6 +81,7 @@ a {
  color: #fff;
  background-color: #0d1117;
  border-color:  #0d1117;
+ font-family: monospace;
 }
 
 .btn-grey:hover {
@@ -83,6 +90,22 @@ a {
   border-color: #0d1117;
  }
 
- .college{
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ /* .college{
+font-family: 'Playfair Display SC', serif;
+ } */
+
+ .quotes{
+   font-weight: bold;
+   font-size: 25px;
+  font-family: 'Dawning of a New Day', cursive !important;
+  word-spacing: 2px;
  }
+
+ /* .batch{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+ } */
+
+ /* strong{
+  font-family: 'Playfair Display SC', serif;
+ } */
