@@ -63,6 +63,11 @@ i {
 #navbarSupportedContent .active>a:not(:only-child):after {
 	transform: rotate(90deg);
 }
+
+ .nav-link{
+	font-size: 20px !important;
+ }
+
 .hori-selector{
 	display:inline-block;
 	position:absolute;
