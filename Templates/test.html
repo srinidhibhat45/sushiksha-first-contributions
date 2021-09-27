@@ -19,10 +19,10 @@
             </div>
     </div>
     <script src="../data.js"></script>
+    <script src="../assets/js/app.js"></script>
     <script>
             
           var data_filter = team.filter( element => element.teamname =="example")
-          console.log(data_filter)
           
           document.getElementById("app").innerHTML = `
             ${data_filter.map(memberTemplate).join("")}
