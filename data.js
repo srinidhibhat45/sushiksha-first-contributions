@@ -57,6 +57,13 @@ const team = [
       college: "Cat",
       batch: 2016,
       photo: "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      teamname:'Ojas',
+      name: "test3",
+      college: "Cat",
+      batch: 2016,
+      photo: "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     }
   ];
 
