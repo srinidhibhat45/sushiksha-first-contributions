@@ -58,9 +58,7 @@
 
 #### Project Description
 
-1. Backend Framework: **Django**
-2. Front-end Framework: **Bootstrap**
-3. Database used: **Sqlite**
+Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify.
 
 <!-- Getting started -->
 
