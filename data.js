@@ -8,7 +8,7 @@ const team = [
     batch: 2016,
     quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
     photo: "https://i.ibb.co/jMTJz79/Screenshot-from-2021-07-31-22-22-40.png",
-    github:"www.google.com"
+    github:"https://github.com/srinidhibhat45"
   },
   {
     teamname:'Adhwithiya',
