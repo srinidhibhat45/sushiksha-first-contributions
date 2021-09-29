@@ -190,8 +190,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
           5. Click on *Upload*
           6. Wait for the image to be uploaded
           7. Now from the dropdown, select *HTML Fully linked*
-          8. DONT Copy the full link! instead, copy only what is in quotes  ```src="only-copy-what's-here"```. Refer to the screenshot below. Note that the link might change for your image. 
-          <br/>
+          8. DONT Copy the full link! instead, copy only what is in quotes  ```src="only-copy-what's-here"```. Refer to the screenshot below. Note that the link                might change for your image.
         <img src="https://i.ibb.co/V9B9Gd6/Screenshot-from-2021-09-29-18-17-48.png" height="350">
           9. Paste this link into the ```photo``` field in quotes
           10. 
