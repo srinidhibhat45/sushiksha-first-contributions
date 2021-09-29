@@ -182,8 +182,19 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
 
       6. Add a fun, interesting quote aboout yourself in the ```quote``` field in quotes.
 
-      7. 
-
+      7. Now to add your photo, there are couple more steps than usual but are very easy:
+          1. Visit *imgbb.net*
+          2. Click on *Start Uploading* 
+          3. Select the photo that you want to use for your cards
+          4. From the dropdown, select *Dont Autodelete*.
+          5. Click on *Upload*
+          6. Wait for the image to be uploaded
+          7. Now from the dropdown, select *HTML Fully linked*
+          8. DONT Copy the full link! instead, copy only what is in quotes  ```src="only-copy-what's-here"```. Refer to the screenshot below. Note that the link might change for your image. 
+          <br/>
+        <img src="https://i.ibb.co/V9B9Gd6/Screenshot-from-2021-09-29-18-17-48.png" height="350">
+          9. Paste this link into the ```photo``` field in quotes
+          10. 
 
 
 
