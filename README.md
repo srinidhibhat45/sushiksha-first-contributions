@@ -44,14 +44,23 @@
       <ul>
         <li><a href="#installation">Installation</a>
           <ol>
-            <li>a href="#forking">Forking</li>
+            <li><a href="#forking">Forking</a></li>
+            <li><a href="#cloning">Cloning</a></li>
           </ol>
         </li>
-           
-        <li><a href="#development">Development</a></li>
+        <li><a href="#development">Development</a>
+           <ol>
+            <li><a href="#checkout">Checkout</a></li>
+            <li><a href="#Editing">Editing</a></li>
+            <li><a href="#staging">Staging</a></li>
+            <li><a href="#commiting">Commiting</a></li>
+            <li><a href="#pushing">Pushing</a></li>
+            <li><a href="#pull-request">Pull Request</a></li>
+          </ol>
+        </li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing / Adding features</a></li>
+    <li><a href="#contributing">Contributing / Adding features (to the site)</a></li>
   </ol>
 </details>
 
@@ -59,25 +68,67 @@
 
 <!-- About Project -->
 
-## About the Project
+## ***About the Project***
+<br />
 
-#### Project Description
+#### **Project Description:**
+Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify. The project is restricted to Sophists members only and is created for the workshop on Git and GitHub to introduce them to HacktoberFest. Any contributions from other members may not be considered/acknowledged. 
 
-Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify.
+<br/>
+<br/>
 
 <!-- Getting started -->
 
-## Getting Started
+## ***Getting Started***
+<br />
 
-### Installation 
+### **Installation** 
+<br />
 
-1. Fork and Clone
-    <ol>
-    <li>Fork the Tejas-SCL-maxo Repository</li>
-    <li>Clone the repo to your local system.</li>
-    </ol>
+1. ### Forking
+  
+      Fork the sushiksha-first-contributions Repository with the help fo the <b>FORK</b> button of the top right corner of the repository. 
 
-2. Create a Virtual Environment for the Project
+2. ### Cloning
+
+      1. Once Forked, click on the Green colored <b>CODE</b> button
+      2. Make sure you have <b>https</b> selected and copy the url shown.
+      3. Open GitBash on your system and use ```cd``` command to navigate to the desktop or whichever folder you want to clone the repository to. Here I will clone to my Desktop 
+
+      In Windows
+      ```bash
+      cd Users/UserName/Desktop
+      ```
+
+      *For Linux or MacOS users, please refer the official documentation.*
+
+      4. Now to clone the Repository.
+
+      ```bash
+      git clone https://github.com/your-github-username/sushiksha-first-contributions.git
+      ```
+      5. Now ```cd``` into that folder.
+
+      ```bash
+      cd sushiksha-first-contributions
+      ```
+
+  <br />
+
+*Congratulations! you have Successfully Cloned your First Repository!!!*
+
+  <br />
+
+### **Development**
+<br/>
+ 
+ *PS: from hereon, please ensure you are working in your cloned repository. Otherwise the below commands will not work.*
+
+3. ### Checkout
+
+      You should never work on the main branch of you repository and reserve it for deployment purposes. You should, instead, checkout to another branch where you can make your changes and then push it to the main branch to be merged into
+
+      you can do this easily with the ```checkout``` command.
 
     In Windows
     ```bash
@@ -100,7 +151,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
     ```bash
     pip install -r requirements.txt
     ```
-### Development
+
 
 4. Checkout to a different branch
      ```git
