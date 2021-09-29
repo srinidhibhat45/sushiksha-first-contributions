@@ -64,7 +64,7 @@ function memberTemplate(member) {
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12 glass-effect p-4">
                     <div class="profile-image float-md-right"> <img
-                            src=../photo/${member.photo}
+                            src=${member.photo}
                             alt=""> </div>
                 </div>
                 <div class="col-lg-8 col-md-8 col-12 pr-4">
