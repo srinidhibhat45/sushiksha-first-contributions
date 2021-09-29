@@ -13,7 +13,7 @@
 
 <!-- Heads -->
   <p align="center">
-    A Simple repository for all sophists to contribute to and make their first ever pull request for HacktoberFest 2021!!
+    A Simple repository for all SOPHISTS to contribute to and make their first ever pull request for HacktoberFest 2021!!
     <br />
     <br />
     <br />
@@ -28,6 +28,10 @@
 <br>
   
 # How to Contribute?
+
+*Follow the following steps in Order and you will have made your first PR by the end of the read! If you have any doubts or are stuck somewhere, please reach out to Srinidhi Bhat or Rishabh Naik on Slack DMs.*
+
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -113,6 +117,8 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       cd sushiksha-first-contributions
       ```
 
+      *PS: you can also choose to download a zip file of the code that is an option under the green code button as well. however this can cause problems in the development process sometimes. So proceed with caution!*
+
   <br />
 
 *Congratulations! you have Successfully Cloned your First Repository!!!*
@@ -126,79 +132,44 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
 
 3. ### Checkout
 
+      Branches are unique features of Version Control Systems that allow you to add/remove features and test them individually, without affecting the main code. This also enables multiple contributors to work on a single piece of code together, working on multiple features.
+
       You should never work on the main branch of you repository and reserve it for deployment purposes. You should, instead, checkout to another branch where you can make your changes and then push it to the main branch to be merged into
 
-      you can do this easily with the ```checkout``` command.
+      you can do this easily with the ```checkout``` command. This command can be used with a flag ```-b``` to create a new branch as well. By default your main branch is main. all other branches will have to be created by you.
 
-    In Windows
-    ```bash
-    pip install virtualenv
-    virtualenv venv
-    venv\Scripts\activate
-    ```
+  Initially to create a new branch, you will have to use the ```-b``` flag. Rest of the times, you can just checkout to it provided it hasn't been deleted.
 
-    In Ubuntu/MacOS
-    ```bash
-    python -m virtualenv venv
-
-    source venv/bin/activate
-    ```
-   
-   If you are using another name for the virtual environment other than `venv`, then please mention it in `.gitignore`.
-
-3. Install all the requirements
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+  ```bash
+  git checkout -b your-branch-name
+  ```
 
 
-4. Checkout to a different branch
-     ```git
-    git status
-    git pull
-    git branch
-    git checkout -b <your-branch-here>
-   
-   ```
-**Note: the python-openid and python3-openid package that come alone with the social-auth package are bugged.
-to fix this issue, run the following command:**
+  Checking out to it the next time.
 
-```pip uninstall python-openid && pip uninstall python3-openid```
+  ```bash
+  git checkout your-branch-name
+  ```
 
-**press 'y' if asked for authorisation.**
+4. ### Editing
+  
+  This is the working part of the code. Here is ideally where you would make changes to the source code on your local system. But for thsi project, we've made it simple for you!
 
-**then reinstall the uninstalled packages**
+  Follow the following steps to make yourself a nice card under your team name for the website!
+    1. 
 
-```pip install python-openid && pip install python3-openid```
+5. ### staging
+6. ### Commiting
+7. ### Pushing
+8. ### Pull Request
 
-**and then continue with the following instructions**
-
-
-5. Make migrations/ Create db.sqlite3
-
-    ```bash
-    python manage.py makemigrations
-    python manage.py migrate
-    ```
-
-6. Create a super user.
-    In Django, if you want to access admin page, you need to create an account with staff status first.
-    ```djangotemplate
-    python manage.py createsuperuser
-    ```
-   Then select your username and password. You can bypass a common password for development purposes.
-   
-7. Run the server on localhost:
-    ```bash
-    python manage.py runserver
-    ```
-
-8. Make the changes and send a PR, referencing the changes.
    
 
-## Contributing
-   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change in the project.
+## Contributing 
+
+*Any changes/improvements, bug fixes to this site are highly encouraged and welcome.*
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change in the project.
 
 <br>
 <br>
