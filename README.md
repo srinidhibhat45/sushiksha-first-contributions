@@ -160,19 +160,19 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       1. Open ***data.js*** file in the root directory (You can do this using your favourite Code Editor or Notepad.)
       2. It is important that you DO NOT change anything else here and scroll down to your Team Name. You will see an entry like this:
 
-  ```js
-  //Udhbhav
-  {
-    teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
-    batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
-  },
-  ```
-  *note that the first entry under every team is reserved for the team champion only.*
+          ```js
+          //Udhbhav
+          {
+            teamname:'Udhbhav',
+            name: "Test1",
+            college: "College institue of technology",
+            batch: 2016,
+            quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
+            photo: "rishabh.jpg",
+            github:"www.google.com"
+          },
+          ```
+      *note that the first entry under every team is reserved for the team champion only.*
 
       3. Add your name to the ```name``` field in quotes.
 
