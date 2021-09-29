@@ -153,10 +153,35 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
 
 4. ### Editing
   
-  This is the working part of the code. Here is ideally where you would make changes to the source code on your local system. But for thsi project, we've made it simple for you!
+    This is the working part of the code. Here is ideally where you would make changes to the source code on your local system. But for this project, we've made it simple for you!
 
-  Follow the following steps to make yourself a nice card under your team name for the website!
-    1. 
+    Follow the following steps to make yourself a nice card under your team name for the website!
+
+      1. Open ***data.js*** file in the root directory (You can do this using your favourite Code Editor or Notepad.)
+      2. It is important that you DO NOT change anything else here and scroll down to your Team Name. You will see an entry like this:
+
+  ```json
+  //Udhbhav
+  {
+    teamname:'Udhbhav',
+    name: "Test1",
+    college: "College institue of technology",
+    batch: 2016,
+    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
+    photo: "rishabh.jpg",
+    github:"www.google.com"
+  },
+  ```
+  *note that the first entry under every team is reserved for the team champion only.*
+
+     3. Add your name to the ```name``` field in quotes.
+     4. Add your College name to the ```college``` field in quotes.
+     5. Add your Sushiksha batch to the ```batch``` field without quotes.
+     6. Add a fun, interesting quote aboout yourself in quotes.
+     
+
+
+
 
 5. ### staging
 6. ### Commiting
