@@ -160,7 +160,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       1. Open ***data.js*** file in the root directory (You can do this using your favourite Code Editor or Notepad.)
       2. It is important that you DO NOT change anything else here and scroll down to your Team Name. You will see an entry like this:
 
-  ```json
+  ```js
   //Udhbhav
   {
     teamname:'Udhbhav',
@@ -174,11 +174,16 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
   ```
   *note that the first entry under every team is reserved for the team champion only.*
 
-     3. Add your name to the ```name``` field in quotes.
-     4. Add your College name to the ```college``` field in quotes.
-     5. Add your Sushiksha batch to the ```batch``` field without quotes.
-     6. Add a fun, interesting quote aboout yourself in quotes.
-     
+      3. Add your name to the ```name``` field in quotes.
+
+      4. Add your College name to the ```college``` field in quotes.
+
+      5. Add your Sushiksha batch to the ```batch``` field without quotes.
+
+      6. Add a fun, interesting quote aboout yourself in the ```quote``` field in quotes.
+
+      7. 
+
 
 
 
