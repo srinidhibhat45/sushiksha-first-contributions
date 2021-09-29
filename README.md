@@ -160,7 +160,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       1. Open ***data.js*** file in the root directory (You can do this using your favourite Code Editor or Notepad.)
       2. It is important that you DO NOT change anything else here and scroll down to your Team Name. You will see an entry like this:
 
-  ```json
+  ```js
   //Udhbhav
   {
     teamname:'Udhbhav',
