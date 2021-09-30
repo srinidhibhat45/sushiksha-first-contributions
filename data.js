@@ -3,12 +3,12 @@ const team = [
   //Adhwithiya
   {
     teamname:'Adhwithiya',
-    name: "Your Name",
-    college: "Your College",
-    batch: 2016,
-    quote: 'Your quote',
-    photo: "https://i.ibb.co/V2LLmT7/sophists-logo-white.png",
-    github:"Your github profile url"
+    name: "Abhay Trivedi",
+    college: "J.C. Bose University of Science and Technology, YMCA",
+    batch: 2020,
+    quote: 'Perception is reality!',
+    photo: "https://ibb.co/y0wS8bj",
+    github:"https://github.com/AbhayTrivedi"
   },
   {
     teamname:'Adhwithiya',
