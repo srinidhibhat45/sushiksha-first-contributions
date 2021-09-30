@@ -6,10 +6,29 @@ body{
 	font-size: 20px;
 	font-weight: 600;
   }
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #899481 #f3f2e0;
+  }
 
-body{
-	font-family: 'Roboto', sans-serif;
-}
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #f3f2e0;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #899481;
+    border-radius: 10px;
+    border: 3px solid #f3f2e0;
+  }
+
+
 i {
 	margin-right: 10px;
 }
