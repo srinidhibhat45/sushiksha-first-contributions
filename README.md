@@ -164,12 +164,12 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
           //Udhbhav
           {
             teamname:'Udhbhav',
-            name: "Test1",
-            college: "College institue of technology",
+            name: "Your Name here",
+            college: "Your College Name here",
             batch: 2016,
-            quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
-            photo: "rishabh.jpg",
-            github:"www.google.com"
+            quote: 'A fun quote with more than 10 words.',
+            photo: "your-image-url-here",
+            github:"www.your-github-url-here.com"
           },
           ```
       *note that the first entry under every team is reserved for the team champion only*
@@ -181,6 +181,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       5. Add your Sushiksha batch to the ```batch``` field without quotes.
 
       6. Add a fun, interesting quote aboout yourself in the ```quote``` field in quotes.
+      ***Note that this quote has to be 10 words or more!!!***
 
       7. Now to add your photo, there are couple more steps than usual but are very easy:
           1. Visit *imgbb.net*
