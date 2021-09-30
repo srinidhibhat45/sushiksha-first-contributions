@@ -3,1257 +3,1257 @@ const team = [
   //Adhwithiya
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "https://i.ibb.co/jMTJz79/Screenshot-from-2021-07-31-22-22-40.png",
-    github:"https://github.com/srinidhibhat45"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Adhwithiya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   //Arghya
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Arghya',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   //Avyakt
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Avyakt',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   //Chetak
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Chetak',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Kshitij
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Kshitij',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
 
   //Lakshy
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
     {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Lakshy',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Navikaran
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Navikaran',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Ojas
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Ojas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Prakhyath
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Prakhyath',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Sadhbhav
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sadhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Saksham
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Saksham',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Siddhanth
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Siddhanth',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Udhbhav
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udhbhav',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Udvikas
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Udvikas',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Vikalp
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vikalp',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //Vivaan
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Vivaan',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
 
   //2018 batch and Mentors
 
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   {
     teamname:'Sushiksha',
-    name: "Test1",
-    college: "College institue of technology",
+    name: "Your Name",
+    college: "Your College",
     batch: 2016,
-    quote: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    photo: "rishabh.jpg",
-    github:"www.google.com"
+    quote: 'Your quote',
+    photo: "Your image url",
+    github:"Your github profile url"
   },
   ];
