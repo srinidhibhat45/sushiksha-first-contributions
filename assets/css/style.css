@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display+SC&display=swap&family=Dancing+Script&display=swap');
 body{
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
 	font-size: 20px;
 	font-weight: 600;
 
@@ -216,4 +216,9 @@ i {
 
 .center img{
 	margin-top: 20%;
+}
+
+.markdownsheet{
+	padding: 50px 200px ;
+	color: white !important;
 }
