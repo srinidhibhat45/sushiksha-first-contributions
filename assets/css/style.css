@@ -6,35 +6,17 @@ body{
 	font-size: 20px;
 	font-weight: 600;
   }
-  
-  /* ===== Scrollbar CSS ===== */
-  /* Firefox */
-  * {
-    scrollbar-width: none;
-    scrollbar-color: #9e433175 #ffffff;
-  }
-
-  /* Chrome, Edge, and Safari */
-  *::-webkit-scrollbar {
-    width: 16px;
-	opacity: 0.5;
-  }
-
-  *::-webkit-scrollbar-track {
-    background: #ffffff;
-  }
 
 body{
 	font-family: 'Roboto', sans-serif;
 }
-
 i {
 	margin-right: 10px;
 }
 /*----------bootstrap-navbar-css------------*/
 .navbar-logo{
 	padding: 15px;
-	color: #fff;
+	color: #f74700ff;
 }
 .navbar-mainbg{
 	background-color: #f3f2e0ff;
@@ -194,7 +176,7 @@ i {
 
 /* Background */
 .blurred-wrapper{
-	height: 100vh;
+	height: 620px;
 	background: url("../img/background.png") center/cover;
 	z-index: 1;
 	overflow-x: hidden;
@@ -265,6 +247,12 @@ i {
 	text-decoration: none;
 	color: black;
 	line-height: 40px;
+}
+.hero{
+	background-image: url("../img/background.png"); 
+	width:100%;
+	height: 500px;
+	text-align: center;
 }
 
 a:hover {
