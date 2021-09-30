@@ -58,7 +58,7 @@ jQuery(document).ready(function($){
 
 function memberTemplate(member) {
     return `
-    <div class="col-xl-7 col-lg-7 col-md-6 glass-effect d-flex mx-auto">
+    <div class="col-xl-7 col-lg-7 col-md-7 glass-effect d-flex mx-auto">
     <div class="card profile-header">
         <div class="body p-2 my-2">
             <div class="row">

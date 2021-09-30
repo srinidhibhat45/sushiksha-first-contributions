@@ -7,7 +7,7 @@ const team = [
     college: "Your College",
     batch: 2016,
     quote: 'Your quote',
-    photo: "Your image url",
+    photo: "https://i.ibb.co/V2LLmT7/sophists-logo-white.png",
     github:"Your github profile url"
   },
   {
