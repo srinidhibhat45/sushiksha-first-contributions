@@ -369,12 +369,12 @@ const team = [
   //Lakshy
   {
     teamname: "Lakshy",
-    name: "Your Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Deeksha Sanu",
+    college: "RV College of Engineering",
+    batch: 2019,
+    quote: "My goal is to be better than I used to be",
+    photo: "https://i.ibb.co/R4F3fRy/Deeksha-Sanu.jpg",
+    github: "https://github.com/Deeksha-Sanu",
   },
   {
     teamname: "Lakshy",
