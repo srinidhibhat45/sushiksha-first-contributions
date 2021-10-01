@@ -446,8 +446,7 @@ const team = [
     name: "Bhargavi Nayak",
     college: "NMAM Institute of Technology",
     batch: 2019,
-    quote:
-      "Don't rest, start the HacktoberFest with full on zest and get the best out of it!",
+    quote:"Don't rest, start the HacktoberFest with full on zest and get the best out of it!",
     photo: "https://i.ibb.co/XL6mnp6/IMG-20201205-WA0017.jpg",
     github: "https://github.com/Bhargavi09",
   },
@@ -1123,8 +1122,7 @@ const team = [
     college: "Shri Jayachamarajendra College Of Engineering",
     batch: 2019,
     quote: "You are entitled to the actions, never to its fruits",
-    photo:
-      "https://media-exp1.licdn.com/dms/image/C5603AQHJYf6bBUeY1Q/profile-displayphoto-shrink_800_800/0/1616585603947?e=1638403200&v=beta&t=mcM0ZU9kaSfiBKenRQ7Mfj5gSvqPe9u7qvwMdYV5EHY",
+    photo:"https://media-exp1.licdn.com/dms/image/C5603AQHJYf6bBUeY1Q/profile-displayphoto-shrink_800_800/0/1616585603947?e=1638403200&v=beta&t=mcM0ZU9kaSfiBKenRQ7Mfj5gSvqPe9u7qvwMdYV5EHY",
     github: "https://github.com/RajathPrabhu221",
   },
   {
