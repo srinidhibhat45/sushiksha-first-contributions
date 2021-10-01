@@ -221,12 +221,12 @@ const team = [
   //Chetak
   {
     teamname: "Chetak",
-    name: "Your Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Praneeth",
+    college: "RV College of Engineering",
+    batch: 2019,
+    quote: "If you can dream it. You can do it.",
+    photo: "https://i.ibb.co/VgQKKGW/0-G0-A8528-2.jpg",
+    github: "https://github.com/18praneeth",
   },
   {
     teamname: "Chetak",
