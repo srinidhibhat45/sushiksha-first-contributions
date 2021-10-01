@@ -4,7 +4,7 @@ const team = [
   {
     teamname:'Adhwithiya',
     name: "Your Name",
-    college: "Your College",
+    college: "Your College name",
     batch: 2016,
     quote: 'Your quote',
     photo: "https://i.ibb.co/V2LLmT7/sophists-logo-white.png",
