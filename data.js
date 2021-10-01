@@ -1245,6 +1245,15 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
+   {
+    teamname: "Sushiksha",
+    name: "Your Name",
+    college: "Your College",
+    batch: 2016,
+    quote: "Your quote",
+    photo: "Your image url",
+    github: "Your github profile url",
+  },
   {
     teamname: "Sushiksha",
     name: "Your Name",
