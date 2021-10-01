@@ -1,162 +1,310 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="icon" href="assets/img/Hacktoberfest icon.svg" type="icon">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+    <link rel="icon" href="assets/img/Hacktoberfest icon.svg" type="icon" />
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+      crossorigin="anonymous"
+    ></script>
     <script src="assets/js/app.js"></script>
-    <script src="https://kit.fontawesome.com/3aa31213fd.js" crossorigin="anonymous"></script>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script
+      src="https://kit.fontawesome.com/3aa31213fd.js"
+      crossorigin="anonymous"
+    ></script>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+      integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
 
     <title>Hacktoberfest X Sophists</title>
   </head>
+
   <body>
     <nav class="navbar navbar-expand-custom navbar-mainbg">
-        <a class="navbar-brand navbar-logo ml-5 pl-5" href="#"><img style="height: 80px" src="assets/img/hacktoberfest.svg" alt="hacktoberfest logo"></a><i class="fas fa-times"></i><img style="height: 90px" src="assets/img/Sophists black.svg" alt="sophists black logo">
-        <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <a class="navbar-brand navbar-logo ml-2" href="#"
+        ><img
+          style="height: 80px"
+          src="assets/img/hacktoberfest.svg"
+          alt="hacktoberfest logo" /></a
+      ><i class="fas fa-times"></i
+      ><img
+        style="height: 90px"
+        src="assets/img/Sophists black.svg"
+        alt="sophists black logo"
+      />
+      <button
+        class="navbar-toggler"
+        type="button"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
         <i class="fas fa-bars text-white"></i>
-        </button>
-        <div class="collapse navbar-collapse mr-5" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto mr-5">
-                <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html"><i class="fas fa-users"></i>Teams</a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link" href="contribute.html"><i class="fas fa-question"></i>How to Contribute?</a>
-                </li>
-            </ul>
-        </div>
+      </button>
+      <div class="collapse navbar-collapse mr-5" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto mr-5">
+          <div class="hori-selector">
+            <div class="left"></div>
+            <div class="right"></div>
+          </div>
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html"
+              ><i class="fas fa-users"></i>Teams</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contribute.html"
+              ><i class="fas fa-question"></i>How to Contribute?</a
+            >
+          </li>
+        </ul>
+      </div>
     </nav>
 
-<!--Team Cards-->
-<div class="blurred-wrapper">
-    <div class="cards-list">
-      <a href="Teams/adhwithiya.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Adhwithiya.png" /> </div>
-        <a class="cards_title" href="Teams/adhwithiya.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Adhwithiya<br>🛡️House: Vikramshila</a>
-      </div>
-    </a>     
-
-    <a href="Teams/arghya.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/arghya-logo.png" /> </div>
-        <a class="cards_title" href="Teams/arghya.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Arghya<br>🛡️House: Vikramshila</a>
-      </div>
-    </a>
-
-    <a href="Teams/avyakt.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Avyakt Logo.png" /> </div>
-        <a class="cards_title" href="Teams/avyakt.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Avyakt<br>🛡️House: Takshashila</a>
-      </div>
-    </a>
-
-    <a href="Teams/chetak.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Chetak.png" /> </div>
-        <a class="cards_title" href="Teams/chetak.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Chetak<br>🛡️House: Takshashila</a>
-      </div>
-    </a>
-
-    <a href="Teams/khitij.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/KSHITIJ_logo.png" /> </div>
-        <a class="cards_title" href="Teams/khitij.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Kshitij<br>🛡️House: Mithila</a>
-      </div>
-    </a>
-
-    <a href="Teams/lakshy.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/LAKSHY TEAM LOGO 1.png" /> </div>
-        <a class="cards_title" href="Teams/lakshy.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Lakshy<br>🛡️House: Vikramshila</a>
-      </div>
-    </a>
-
-    <a href="Teams/navikaran.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/NAVIKARAN.png" /> </div>
-        <a class="cards_title" href="Teams/navikaran.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Navikiran<br>🛡️House: Takshashila</a>
-      </div>
-    </a>
-
-    <a href="Teams/ojas.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Ojas_logo.png" /> </div>
-        <a class="cards_title" href="Teams/ojas.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Ojas<br>🛡️House: Nalanda</a>
-      </div>
-    </a>
-      
-    <a href="Teams/prakhyath.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Prakhyath_logo.png" /> </div>
-        <a class="cards_title" href="Teams/prakhyath.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Prakhyath<br>🛡️House: Nalanda</a>
-      </div>
-    </a>
-
-    <a href="Teams/sadhbhav.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Sadhbhav_Team_Logo.jpg" /> </div>
-        <a class="cards_title" href="Teams/sadhbhav.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Sadhbhav<br>🛡️House: Nalanda</a>
-      </div>
-    </a>
-
-    <a href="Teams/saksham.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Saksham Logo-01.png" /> </div>
-        <a class="cards_title" href="Teams/saksham.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Saksham<br>🛡️House: Takshashila</a>
-      </div>
-    </a>
-
-    <a href="Teams/siddhanth.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/SIDDHANTH_LOGO.png" /> </div>
-        <a class="cards_title" href="Teams/siddhanth.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Siddhanth<br>🛡️House: Mithila</a>
-      </div>
-    </a>
-
-    <a href="Teams/udhbhav.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/Udbhav_logo.png" /> </div>
-        <a class="cards_title" href="Teams/udhbhav.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Udhbhav<br>🛡️House: Mithila</a>
-      </div>
-      </a>
-
-      <a href="Teams/udvikas.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/UDVIKAAS8.png" /> </div>
-        <a class="cards_title" href="Teams/udvikas.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Udvikaas<br>🛡️House: Vikramshila</a>
-      </div>
-      </a>
-
-      <a href="Teams/vikalp.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/logo.png" /> </div>
-        <a class="cards_title" href="Teams/vikalp.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Vikalp<br>🛡️House: Mithila</a>
-      </div>
-      </a>
-
-      <a href="Teams/vivaan.html">
-      <div class="cards">
-        <div class="cards_image"> <img src="photo/vivaan-logo.png" /> </div>
-        <a class="cards_title" href="Teams/vivaan.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Vivaan<br>🛡️House: Nalanda</a>
-      </div>
-      </a>
-
-      <a href="Teams/sushiksha.html">
-        <div class="cards">
-          <div class="cards_image"> <img src="photo/Sushiksha.png" /> </div>
-          <a class="cards_title" href="Teams/sushiksha.html"><br><i style="font-size:24px" class="fa">&#xf0c0;</i>Team Sushiksha<br>🛡️House: WKC</a>
+    <!--Team Cards-->
+    <div class="blurred-wrapper">
+      <div class="cards-list">
+        <div>
+          <a href="Teams/adhwithiya.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Adhwithiya.png" />
+              </div>
+              <a class="cards_title" href="Teams/adhwithiya.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Adhwithiya<br />🛡️House: Vikramshila</a
+              >
+            </div>
+          </a>
         </div>
-        </a>
-    </div>
-    
-</div>
 
-</body>
+        <div>
+          <a href="Teams/arghya.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/arghya-logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/arghya.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Arghya<br />🛡️House: Vikramshila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/avyakt.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Avyakt Logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/avyakt.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Avyakt<br />🛡️House: Takshashila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/chetak.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/Chetak.png" /></div>
+              <a class="cards_title" href="Teams/chetak.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Chetak<br />🛡️House: Takshashila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/khitij.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/KSHITIJ_logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/khitij.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Kshitij<br />🛡️House: Mithila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/lakshy.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/LAKSHY TEAM LOGO 1.png" />
+              </div>
+              <a class="cards_title" href="Teams/lakshy.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Lakshy<br />🛡️House: Vikramshila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/navikaran.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/NAVIKARAN.png" /></div>
+              <a class="cards_title" href="Teams/navikaran.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Navikiran<br />🛡️House: Takshashila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/ojas.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/Ojas_logo.png" /></div>
+              <a class="cards_title" href="Teams/ojas.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Ojas<br />🛡️House: Nalanda</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/prakhyath.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Prakhyath_logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/prakhyath.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Prakhyath<br />🛡️House: Nalanda</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/sadhbhav.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Sadhbhav_Team_Logo.jpg" />
+              </div>
+              <a class="cards_title" href="Teams/sadhbhav.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Sadhbhav<br />🛡️House: Nalanda</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/saksham.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Saksham Logo-01.png" />
+              </div>
+              <a class="cards_title" href="Teams/saksham.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Saksham<br />🛡️House: Takshashila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/siddhanth.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/SIDDHANTH_LOGO.png" />
+              </div>
+              <a class="cards_title" href="Teams/siddhanth.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Siddhanth<br />🛡️House: Mithila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/udhbhav.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/Udbhav_logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/udhbhav.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Udhbhav<br />🛡️House: Mithila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/udvikas.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/UDVIKAAS8.png" /></div>
+              <a class="cards_title" href="Teams/udvikas.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Udvikaas<br />🛡️House: Vikramshila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/vikalp.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/logo.png" /></div>
+              <a class="cards_title" href="Teams/vikalp.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Vikalp<br />🛡️House: Mithila</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div>
+          <a href="Teams/vivaan.html">
+            <div class="cards">
+              <div class="cards_image">
+                <img src="photo/vivaan-logo.png" />
+              </div>
+              <a class="cards_title" href="Teams/vivaan.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Vivaan<br />🛡️House: Nalanda</a
+              >
+            </div>
+          </a>
+        </div>
+
+        <div class="cards-last">
+          <a href="Teams/sushiksha.html">
+            <div class="cards">
+              <div class="cards_image"><img src="photo/Sushiksha.png" /></div>
+              <a class="cards_title" href="Teams/sushiksha.html"
+                ><br /><i style="font-size: 24px" class="fa">&#xf0c0;</i>Team
+                Sushiksha<br />🛡️House: WKC</a
+              >
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
