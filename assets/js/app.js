@@ -58,16 +58,16 @@ jQuery(document).ready(function($){
 
 function memberTemplate(member) {
     return `
-    <div class="col-xl-7 col-lg-7 col-md-7 glass-effect d-flex mx-auto">
+    <div class="col-xl-12 col-lg-12 col-md-4 glass-effect d-flex mx-auto">
     <div class="card profile-header">
         <div class="body p-2 my-2">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-12 glass-effect p-4">
+                <div class="col-lg-4 col-md-4  glass-effect p-4">
                     <div class="profile-image float-md-right"> <img
                             src=${member.photo}
                             alt=""> </div>
                 </div>
-                <div class="col-lg-8 col-md-8 col-12 pr-4">
+                <div class="col-lg-8 col-md-8 pr-4">
                     <h4 class="mt-2 mb-0"><strong>${member.name}</strong></h4>
                     <p class="mt-2 batch">Batch: ${member.batch} </p>
                     
