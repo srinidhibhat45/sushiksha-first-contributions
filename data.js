@@ -446,7 +446,7 @@ const team = [
     name: "Bhargavi Nayak",
     college: "NMAM Institute of Technology",
     batch: 2019,
-    quote: "Don't rest, start the HacktoberFest!",
+    quote: "Don't rest, start the HacktoberFest with full on zest and get the best out of it!",
     photo: "https://i.ibb.co/XL6mnp6/IMG-20201205-WA0017.jpg",
     github: "https://github.com/Bhargavi09",
   },
