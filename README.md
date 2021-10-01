@@ -184,7 +184,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
       ***Note that this quote has to be 10 words or more!!!***
 
       7. Now to add your photo, there are couple more steps than usual but are very easy:
-          1. Visit *imgbb.net*
+          1. Visit *<a href="https://imgbb.com">imgbb.com</a>*
           2. Click on *Start Uploading* 
           3. Select the photo that you want to use for your cards
           4. From the dropdown, select *Dont Autodelete*.
