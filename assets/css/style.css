@@ -142,8 +142,6 @@ i {
 }
 
 @media (min-width: 992px) {
-  .navbar-logo {
-  }
   .navbar-expand-custom {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;

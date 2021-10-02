@@ -1,26 +1,24 @@
-
-
 a {
   color: #f96332;
 }
-.m-t-5{
-  margin-top: 5px;   
+.m-t-5 {
+  margin-top: 5px;
 }
 .card {
   background: #fff;
   margin-top: 30px;
   margin-bottom: 10px;
-  transition: .5s;
+  transition: 0.5s;
   border: 0;
-  border-radius: .1875rem;
+  border-radius: 0.1875rem;
   display: inline-block;
   position: relative;
   width: 100%;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
-  background: rgba(255,255,255,0.4);
+  background: rgba(255, 255, 255, 0.4);
   backdrop-filter: blur(10px);
   border-radius: 10px;
-  border: 1px solid rgba(255,255,255,0.2);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 .card .body {
   font-size: 14px;
@@ -28,75 +26,75 @@ a {
   padding: 40px;
   font-weight: 400;
 }
+.profile-page {
+  padding: 80px 0 0 0;
+}
 .profile-page .profile-header {
-  position: relative
+  position: relative;
 }
 
 .profile-page .profile-header .profile-image img {
   border-radius: 5%;
   width: 200px;
   border: 3px solid #fff;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
-@media (max-width:767px){
+@media (max-width: 767px) {
   .profile-page .profile-header .profile-image img {
     border-radius: 5%;
     width: 70%;
 
     border: 3px solid #fff;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   }
 
   .card .body {
-  text-align: center;
-  font-size: 14px;
-  color: #424242;
-  padding: 40px;
-  font-weight: 400;
-}
+    text-align: center;
+    font-size: 14px;
+    color: #424242;
+    padding: 40px;
+    font-weight: 400;
+  }
 }
 
 .profile-page .profile-header .social-icon a {
-  margin: 0 5px
+  margin: 0 5px;
 }
 
 .profile-page .profile-sub-header {
   min-height: 60px;
-  width: 100%
+  width: 100%;
 }
 
-
-
-.btn-grey{
- color: #fff;
- background-color: #0d1117;
- border-color:  #0d1117;
- font-family: monospace;
+.btn-grey {
+  color: #fff;
+  background-color: #0d1117;
+  border-color: #0d1117;
+  font-family: monospace;
 }
 
 .btn-grey:hover {
   color: #0d1117;
   background-color: rgba(255, 255, 255, 0);
   border-color: #0d1117;
- }
+}
 
- /* .college{
+/* .college{
 font-family: 'Playfair Display SC', serif;
  } */
 
- .quotes{
-   font-weight: bold;
-   font-size: 25px;
-   font-family: 'Dancing Script', cursive;
+.quotes {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Dancing Script", cursive;
   word-spacing: 2px;
- }
+}
 
- .batch{
-
+.batch {
   font-weight: 400;
- }
+}
 
- /* strong{
+/* strong{
   font-family: 'Playfair Display SC', serif;
  } */
