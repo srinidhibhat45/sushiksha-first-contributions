@@ -748,12 +748,12 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Pannag Bhaskar Kini",
+        college: "B.M.S.College of Engineering",
+        batch: 2020,
+        quote: "It's our choices that define us more than our abilities",
+        photo: "https://tinyurl.com/4kzx9vkx",
+        github: "https://github.com/prongs651",
     },
     {
         teamname: "Saksham",
