@@ -645,9 +645,9 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
+        name: "Omkar Kamat",
+        college: "SDM College of Engineering and Technology",
+        batch: 2020,
         quote: "Your quote",
         photo: "Your image url",
         github: "Your github profile url",
