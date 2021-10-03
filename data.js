@@ -1056,7 +1056,7 @@ const team = [
         name: "Vidyesh Kumar",
         college: "N.M.A.M.I.T",
         batch: 2020,
-        quote: "A Machine That Converts Copy To Code",
+        quote: "A Machine That Converts Coffee To Code",
         photo: "https://i.ibb.co/GcTK2ZN/1630142096848.jpg",
         github: "https://github.com/vidyesh-kumar",
     },
