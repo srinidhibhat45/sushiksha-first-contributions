@@ -649,12 +649,12 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Omkar Kamat",
+        college: "SDM College of Engineering and Technology",
+        batch: 2020,
+        quote: "Don't wait for opportunities, create your own",
+        photo: "https://i.ibb.co/TwGgNDD/20210909-155711.jpg",
+        github: "https://github.com/OmkarKamat869",
     },
     {
         teamname: "Prakhyath",
