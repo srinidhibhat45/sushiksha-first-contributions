@@ -816,12 +816,12 @@ const team = [
     //Siddhanth
     {
         teamname: "Siddhanth",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Shravya Mallya",
+        college: "MIT Manipal",
+        batch: 2019,
+        quote: "You are free, and that is why you are lost.",
+        photo: "https://i.ibb.co/Lx0NV4V/WKC-Photo-DP.png",
+        github: "https://github.com/ShravyaMallya",
     },
     {
         teamname: "Siddhanth",
