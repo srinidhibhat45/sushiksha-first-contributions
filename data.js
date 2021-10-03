@@ -1131,12 +1131,12 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Amulya M Kamat",
+    college: "Canara Engineering College",
+    batch: 2020,
+    quote: "Don't limit your challenges, challenge your limits!",
+    photo:"https://tinyurl.com/jzutdyz4",
+    github: "https://github.com/amulya2003",
   },
   {
     teamname: "Vivaan",
