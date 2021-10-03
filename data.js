@@ -1069,7 +1069,7 @@ const team = [
         name: "Rohith V Kamath",
         college: "SJB Institute of Technology",
         batch: 2020,
-        quote: "Your quote",
+        quote: "Action is the foundational key to all success",
         photo: "https://i.ibb.co/gZmXWWw/IMG-20210907-155420.jpgYour image url",
         github: "https://github.com/rohithvkamath",
     },
