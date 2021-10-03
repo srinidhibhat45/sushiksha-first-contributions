@@ -17,7 +17,7 @@
   </head>
   <body>
      <nav class="navbar navbar-expand-custom navbar-mainbg">
-        <a class="navbar-brand navbar-logo ml-5 pl-5" href="../index.html"><img style="height: 40px" src="../photo/Adhwithiya.png" alt="Adhwithiya Logo"> Adhwithiya</a>
+        <a class="navbar-brand navbar-logo ml-5 pl-5" href="../index.html"><img style="height: 40px" src="assets/img/Sophists black.svg" alt="Sophists Logo"> Sophists</a>
         <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars text-white"></i>
         </button>
@@ -47,14 +47,15 @@
     <script src="assets/js/app.js"></script>
     <script>
             
-          var data_filter = team.filter( element => element.name !== "Name")
-          console.log(data_filter)
+          var data_filter = team.filter( element => element.name !== "Name");
+          var alldata = data_filter.reverse();
+          console.log(alldata);
           
           document.getElementById("app").innerHTML = `
-            ${data_filter.map(memberTemplate).join("")}
+            ${alldata.map(memberTemplate).join("")}
           `;
           
     </script>
-    <script src="../assets/js/app.js"></script>
+    <script src="assets/js/app.js"></script>
   </body>
 </html>
