@@ -41,7 +41,7 @@ $(window).on('resize', function(){
 });*/
 
 function toggleME() {
-	$("#mob-collapse").slideToggle(300);
+	$("#navbarSupportedContent").slideToggle(300);
 	setTimeout(function () { test(); });
 }
 
