@@ -521,7 +521,7 @@ const team = [
         college: "Sambhram Institute of Technology",
         batch: 2019,
         quote: "Everything in this world is comparatively relative",
-        photo: "https://ibb.co/s6Stt37",
+        photo: "https://sushiksha.konkanischolarship.com/media/profile_pics/PXL_20210915_073220028.PORTRAIT.jpg",
         github: "https://github.com/RishabhNaik",
     },
     {
