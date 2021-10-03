@@ -648,9 +648,9 @@ const team = [
         name: "Omkar Kamat",
         college: "SDM College of Engineering and Technology",
         batch: 2020,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        quote: "Don't wait for opportunities, create your own",
+        photo: "https://i.ibb.co/TwGgNDD/20210909-155711.jpg",
+        github: "https://github.com/OmkarKamat869",
     },
     {
         teamname: "Prakhyath",
