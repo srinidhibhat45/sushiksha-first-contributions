@@ -1127,12 +1127,12 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Name",
-    college: "Your College",
+    name: "Asif Adib",
+    college: "National University Of Bangladesh",
     batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    quote: "Try Better Yourself!",
+    photo: "https://i.ibb.co/8BWX1n4/asif.jpg",
+    github: "https://github.com/asifadib",
   },
   {
     teamname: "Vivaan",
