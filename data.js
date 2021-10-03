@@ -3,12 +3,12 @@ const team = [
 
     {
         teamname: "Adhwithiya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Srinidhi S Bhat",
+        college: "Goa College of Engineering",
+        batch: 2019,
+        quote: "Carpe Diem",
+        photo: "https://i.ibb.co/gW4ygPX/profile-img.png",
+        github: "https://github.com/srinidhibhat45",
     },
     
     {
@@ -520,12 +520,12 @@ const team = [
     //Ojas
     {
         teamname: "Ojas",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Rishabh Naik",
+        college: "Sambhram Institute of Technology",
+        batch: 2019,
+        quote: "Everything in this world is comparatively relative",
+        photo: "https://sushiksha.konkanischolarship.com/media/profile_pics/PXL_20210915_073220028.PORTRAIT.jpg",
+        github: "https://github.com/RishabhNaik",
     },
     {
         teamname: "Ojas",
@@ -1056,12 +1056,12 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Vidyesh Kumar",
+        college: "N.M.A.M.I.T",
+        batch: 2020,
+        quote: "A Machine That Converts Copy To Code",
+        photo: "https://i.ibb.co/GcTK2ZN/1630142096848.jpg",
+        github: "https://github.com/vidyesh-kumar",
     },
     {
         teamname: "Vikalp",
