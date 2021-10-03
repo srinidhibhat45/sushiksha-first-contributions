@@ -334,12 +334,12 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Hrishikesh kamath",
+        college: "BMSIT,Banglore",
+        batch: 2019,
+        quote: "Simplicity is the ultimate sophistication.",
+        photo: "https://i.ibb.co/5hjCVWR/black.jpg",
+        github: "https://github.com/hrishi-19",
     },
     {
         teamname: "Kshitij",
