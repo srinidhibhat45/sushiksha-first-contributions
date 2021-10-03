@@ -2,7 +2,7 @@ const team = [
     //Adhwithiya
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College name",
         batch: 2016,
         quote: "Your quote",
@@ -11,7 +11,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -20,7 +20,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -29,7 +29,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -38,7 +38,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -47,7 +47,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -56,7 +56,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -65,7 +65,7 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -75,7 +75,7 @@ const team = [
     //Arghya
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -84,7 +84,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -93,7 +93,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -102,7 +102,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -111,7 +111,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -120,7 +120,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -129,7 +129,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -138,7 +138,7 @@ const team = [
     },
     {
         teamname: "Arghya",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -148,7 +148,7 @@ const team = [
     //Avyakt
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -157,7 +157,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -166,7 +166,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -175,7 +175,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -184,7 +184,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -193,7 +193,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -202,7 +202,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -211,7 +211,7 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -230,7 +230,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -239,7 +239,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -248,7 +248,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -257,7 +257,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -266,7 +266,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -275,7 +275,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -284,7 +284,7 @@ const team = [
     },
     {
         teamname: "Chetak",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -295,7 +295,7 @@ const team = [
     //Kshitij
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -304,7 +304,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -313,7 +313,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -322,7 +322,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -331,7 +331,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -340,7 +340,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -349,7 +349,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -358,7 +358,7 @@ const team = [
     },
     {
         teamname: "Kshitij",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -378,7 +378,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -387,7 +387,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -396,7 +396,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -405,7 +405,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -414,7 +414,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -423,7 +423,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -432,7 +432,7 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -452,7 +452,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -461,7 +461,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -470,7 +470,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -479,7 +479,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -488,7 +488,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -497,7 +497,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -506,7 +506,7 @@ const team = [
   },
   {
     teamname: "Navikaran",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -517,7 +517,7 @@ const team = [
     //Ojas
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -526,7 +526,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -535,7 +535,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -544,7 +544,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -553,7 +553,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -562,7 +562,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -571,7 +571,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -580,7 +580,7 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -591,7 +591,7 @@ const team = [
     //Prakhyath
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -600,7 +600,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -609,7 +609,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -618,7 +618,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -627,7 +627,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -636,7 +636,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -645,7 +645,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -654,7 +654,7 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -665,7 +665,7 @@ const team = [
     //Sadhbhav
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -674,7 +674,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -683,7 +683,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -692,7 +692,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -701,7 +701,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -710,7 +710,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -719,7 +719,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -728,7 +728,7 @@ const team = [
     },
     {
         teamname: "Sadhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -757,7 +757,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -766,7 +766,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -775,7 +775,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -784,7 +784,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -793,7 +793,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -802,7 +802,7 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -813,7 +813,7 @@ const team = [
     //Siddhanth
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -822,7 +822,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -831,7 +831,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -840,7 +840,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -849,7 +849,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -858,7 +858,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -867,7 +867,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -876,7 +876,7 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -887,7 +887,7 @@ const team = [
     //Udhbhav
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -905,7 +905,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -914,7 +914,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -923,7 +923,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -932,7 +932,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -941,7 +941,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -950,7 +950,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -959,7 +959,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -970,7 +970,7 @@ const team = [
     //Udvikas
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -979,7 +979,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -988,7 +988,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -997,7 +997,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1006,7 +1006,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1015,7 +1015,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1024,7 +1024,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1033,7 +1033,7 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1044,7 +1044,7 @@ const team = [
     //Vikalp
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1053,7 +1053,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1062,7 +1062,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1071,7 +1071,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1080,7 +1080,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1089,7 +1089,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1098,7 +1098,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1107,7 +1107,7 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1127,7 +1127,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1136,7 +1136,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1145,7 +1145,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1163,7 +1163,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1172,7 +1172,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1181,7 +1181,7 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Your Name",
+    name: "Name",
     college: "Your College",
     batch: 2016,
     quote: "Your quote",
@@ -1193,7 +1193,7 @@ const team = [
 
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1202,7 +1202,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1211,7 +1211,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1220,7 +1220,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1229,7 +1229,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1238,7 +1238,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
@@ -1247,7 +1247,7 @@ const team = [
     },
     {
         teamname: "Sushiksha",
-        name: "Your Name",
+        name: "Name",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
