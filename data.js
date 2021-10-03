@@ -152,8 +152,9 @@ const team = [
         college: "BMS COLLEGE OF ENGINEERING",
         batch: 2019,
         quote: "This is me",
-        photo: "https://i.ibb.co/Mkg38wV/photo.jpg",
+        photo: "https://i.ibb.co/B4x9WyT/photo.jpg",
         github: "https://github.com/AJ-221",
+
     },
     {
         teamname: "Avyakt",
