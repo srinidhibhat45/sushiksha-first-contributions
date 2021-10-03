@@ -969,6 +969,16 @@ const team = [
         photo: "Your image url",
         github: "Your github profile url",
     },
+    {
+        teamname:'Udhbhav',
+        name: "Muhammad Ramadhan Sangisda Alam",
+        college: "Universitas Bina Sarana Informatika (UBSI)",
+        batch: 2021,
+        quote: 'no memory in my pc just ram',
+        photo: "https://i.ibb.co/JQsbbX7/Processed-with-VSCO-with-preset.jpg",
+        github:"https://github.com/MRSA-ID"
+    },
+  
 
     //Udvikas
     {
