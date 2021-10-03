@@ -1065,12 +1065,12 @@ const team = [
     },
     {
         teamname: "Vikalp",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
+        name: "Rohith V Kamath",
+        college: "SJB Institute of Technology",
+        batch: 2020,
         quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        photo: "https://i.ibb.co/gZmXWWw/IMG-20210907-155420.jpgYour image url",
+        github: "https://github.com/rohithvkamath",
     },
     {
         teamname: "Vikalp",
