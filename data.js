@@ -1,5 +1,6 @@
 const team = [
     //Adhwithiya
+
     {
         teamname: "Adhwithiya",
         name: "Srinidhi S Bhat",
@@ -9,6 +10,7 @@ const team = [
         photo: "https://i.ibb.co/gW4ygPX/profile-img.png",
         github: "https://github.com/srinidhibhat45",
     },
+    
     {
         teamname: "Adhwithiya",
         name: "Name",
@@ -17,6 +19,15 @@ const team = [
         quote: "Your quote",
         photo: "Your image url",
         github: "Your github profile url",
+    },
+    {
+        teamname: "Adhwithiya",
+        name: "Shreyas Kamath",
+        college: "MANIPAL INSTITUTE OF TECHNOLOGY",
+        batch: 2019,
+        quote: "Life is not a problem to be solved, but a reality to be experienced",
+        photo: "https://i.ibb.co/0KZWwMd/shreyas-profile.jpg",
+        github: "https://github.com/shreyas12345678",
     },
     {
         teamname: "Adhwithiya",
@@ -36,15 +47,7 @@ const team = [
         photo: "Your image url",
         github: "Your github profile url",
     },
-    {
-        teamname: "Adhwithiya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
-    },
+    
     {
         teamname: "Adhwithiya",
         name: "Name",
