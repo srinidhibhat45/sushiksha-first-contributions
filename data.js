@@ -604,12 +604,12 @@ const team = [
     },
     {
         teamname: "Prakhyath",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Apoorva Prabhu R",
+        college: "NMAM Institute of Technology",
+        batch: 2019,
+        quote: "Learning is the most important currency and anyone can be rich",
+        photo: "https://i.ibb.co/qFyDtWR/IMG-20201106-192353.jpg",
+        github: "https://github.com/Apoorva77",
     },
     {
         teamname: "Prakhyath",
