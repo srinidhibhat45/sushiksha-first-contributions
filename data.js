@@ -382,12 +382,12 @@ const team = [
     },
     {
         teamname: "Lakshy",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Hrishikesh K Pai",
+        college: "SASTRA Deemed University",
+        batch: 2020,
+        quote: "Do the best you can until you know better. Then when you know better, do better",
+        photo: "https://i.ibb.co/Y0GVbGz/IMG-20210909-WA0018.jpg",
+        github: "https://https://github.com/hrishi30c",
     },
     {
         teamname: "Lakshy",
