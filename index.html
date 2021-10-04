@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <link rel="icon" href="assets/img/Hacktoberfest icon.svg" type="icon" />
+    
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -13,6 +14,9 @@
       crossorigin="anonymous"
     ></script>
     <script src="assets/js/app.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+      integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+      crossorigin="anonymous"></script>
     <script
       src="https://kit.fontawesome.com/3aa31213fd.js"
       crossorigin="anonymous"
@@ -36,7 +40,7 @@
 
   <body>
     <nav class="navbar navbar-expand-custom navbar-mainbg">
-      <a class="navbar-brand navbar-logo ml-2" href="#"
+      <a class="navbar-brand navbar-logo ml-2" href="index.html"
         ><img
           style="height: 80px"
           src="assets/img/hacktoberfest.svg"
@@ -48,13 +52,15 @@
         alt="sophists black logo"
       />
       <button
+        id="mob-toggler"
         class="navbar-toggler"
         type="button"
         aria-controls="navbarSupportedContent"
         aria-expanded="false"
         aria-label="Toggle navigation"
+        onclick="toggleME()"
       >
-        <i class="fas fa-bars text-white"></i>
+        <i class="fas fa-bars text-black"></i>
       </button>
       <div class="collapse navbar-collapse mr-5" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto mr-5">

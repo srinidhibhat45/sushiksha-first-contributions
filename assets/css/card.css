@@ -28,6 +28,7 @@ a {
 }
 .profile-page {
   padding: 80px 0 0 0;
+  overflow-x: hidden;
 }
 .profile-page .profile-header {
   position: relative;
