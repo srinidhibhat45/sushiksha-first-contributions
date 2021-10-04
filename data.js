@@ -895,7 +895,7 @@ const team = [
         college: "JMIETI",
         batch: 2016,
         quote: 'Do what excites!',
-        photo: "https://ibb.co/vwdffKy",
+        photo: "https://i.ibb.co/Rv6ttVr/IMG-8253.jpg",
         github: "https://github.com/akshitarora921"
     },
     {
