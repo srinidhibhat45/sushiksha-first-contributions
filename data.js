@@ -890,6 +890,15 @@ const team = [
 
     //Udhbhav
     {
+        teamname: 'Udhbhav',
+        name: "Akshit Arora",
+        college: "JMIETI",
+        batch: 2016,
+        quote: 'Do what excites!',
+        photo: "https://ibb.co/vwdffKy",
+        github: "https://github.com/akshitarora921"
+    },
+    {
         teamname: "Udhbhav",
         name: "Nima",
         college: "Sahyadri College Of Engineering and Management",
