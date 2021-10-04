@@ -50,12 +50,12 @@ const team = [
 
     {
         teamname: "Adhwithiya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Anusha K",
+        college: "St Joseph Engineering College, Mangalore",
+        batch: 2020,
+        quote: "Aim impressive!!",
+        photo: "https://i.ibb.co/KDFZ3nb/20191117091300-IMG-3831-JPG.jpg",
+        github: "https://github.com/Anusha-K14",
     },
     {
         teamname: "Adhwithiya",
