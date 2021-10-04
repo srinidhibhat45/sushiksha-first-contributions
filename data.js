@@ -31,12 +31,12 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Khushi Vaikunt Raikar",
+        college: "SDM College Of Engineering and Technology Dharwad",
+        batch: 2019,
+        quote: "Believe in Yourself",
+        photo: "https://i.ibb.co/5Mfkq0j/khushi.jpg",
+        github: "https://github.com/Khushiraikar1",
     },
     {
         teamname: "Adhwithiya",
