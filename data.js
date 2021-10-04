@@ -987,7 +987,7 @@ const team = [
         college: "MIT Manipal",
         batch: 2020,
         quote: "Conquer fear, everyday",
-        photo: "https://ibb.co/jvJnfM6",
+        photo: "https://i.ibb.co/DDr0WCV/Whats-App-Image-2021-08-08-at-10-58-35-PM.jpg",
         github: "https://github.com/Prajnaprabhu3",
     },
     {
