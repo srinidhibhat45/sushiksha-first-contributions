@@ -605,7 +605,7 @@ const team = [
     {
         teamname: "Prakhyath",
         name: "Apoorva Prabhu R",
-        college: "NMAM Institute of Technology",
+        college: "NMAM Institute of Technology, Nitte",
         batch: 2019,
         quote: "Learning is the most important currency and anyone can be rich",
         photo: "https://i.ibb.co/qFyDtWR/IMG-20201106-192353.jpg",
