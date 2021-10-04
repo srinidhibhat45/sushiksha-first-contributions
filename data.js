@@ -1167,12 +1167,12 @@ const team = [
   },
   {
     teamname: "Vivaan",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Rollin John Fernandes",
+    college: "RV College of Engineering ",
+    batch: 2020,
+    quote: "Work hard until success tells you to stop.",
+    photo: "https://i.ibb.co/6mGvmyJ/e30143a3-a2ed-4747-997a-558cebb704a2.jpg",
+    github: "https://github.com/rjf04",
   },
   {
     teamname: "Vivaan",
