@@ -40,12 +40,12 @@ const team = [
     },
     {
         teamname: "Adhwithiya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Karthik Pai",
+        college: "RV College of Engineering",
+        batch: 2020,
+        quote: "You only live once, but if you do it right, once is enough",
+        photo: "https://i.ibb.co/mc4kKhh/IMG-20210516-190611.jpg",
+        github: "https://github.com/kptriescoding",
     },
 
     {
