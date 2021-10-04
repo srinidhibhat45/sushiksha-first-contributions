@@ -20,9 +20,11 @@
       crossorigin="anonymous"
     ></script>
     <script src="assets/js/app.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
       integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
-      crossorigin="anonymous"></script>
+      crossorigin="anonymous"
+    ></script>
     <script
       src="https://kit.fontawesome.com/3aa31213fd.js"
       crossorigin="anonymous"
@@ -80,15 +82,15 @@
               ><i class="fas fa-user-shield"></i>Teams</a
             >
           </li>
-          <li class="nav-item ">
+          <li class="nav-item">
             <a class="nav-link" href="all.html"
               ><i class="fas fa-users"></i>Sophists</a
             >
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contribute.html"
-              ><i class="fas fa-question"></i>How to Contribute?</a
-            >
+              >How to Contribute<i class="fas fa-question"></i
+            ></a>
           </li>
         </ul>
       </div>
@@ -324,5 +326,15 @@
         </div>
       </div>
     </div>
+    <!-- Footer -->
   </body>
+  <script src="components/footer.js"></script>
+  <script>
+    document
+      .querySelector("body")
+      .insertAdjacentHTML(
+        "beforeend",
+        footer("assets/img/hacktoberfest.svg", "assets/img/Sophists_black.svg")
+      );
+  </script>
 </html>
