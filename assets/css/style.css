@@ -345,7 +345,7 @@ footer {
   align-items: center;
   justify-content: center;
   padding: 4px;
-  background-color: black;
+  background-color: #f74700ff;
   border-radius: 100px;
   margin: 5px;
   transition: all 0.5s ease-in;
@@ -355,7 +355,7 @@ footer {
   color: white;
   font-size: 25px;
   align-self: center;
-  padding-left: 6px;
+  padding-left: 8px;
 }
 .social-links ul li:hover {
   transform: scale(1.1);

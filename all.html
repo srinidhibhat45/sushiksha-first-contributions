@@ -109,6 +109,11 @@
   </body>
   <script src="components/footer.js"></script>
   <script>
-    document.querySelector("body").insertAdjacentHTML("beforeend", footer);
+    document
+      .querySelector("body")
+      .insertAdjacentHTML(
+        "beforeend",
+        footer("assets/img/hacktoberfest.svg", "assets/img/Sophists_black.svg")
+      );
   </script>
 </html>

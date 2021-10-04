@@ -1,13 +1,13 @@
-const footer = `<footer>
+const footer = (img1, img2) => `<footer>
 <div class="footer-container">
   <div class="footer-title"><img
       style="height: 80px"
-      src="assets/img/hacktoberfest.svg"
+      src=${img1}
       alt="hacktoberfest logo" /></a
   ><i class="fas fa-times"></i
   ><img
     style="height: 90px"
-    src="assets/img/Sophists black.svg"
+    src=${img2}
     alt="sophists black logo"
   /></div>
   <div class="social-links">
@@ -21,3 +21,5 @@ const footer = `<footer>
   </div>
 </div>
 </footer>`;
+// "assets/img/hacktoberfest.svg"
+// "assets/img/Sophists black.svg"
