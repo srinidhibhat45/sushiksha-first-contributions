@@ -161,12 +161,12 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "AADITYA D PAI",
+        college: "NATIONAL INSTITUTE of TECHNOLOGY KARNATAK, SURATHKAL",
+        batch: 2019,
+        quote: "Be the energy you want to attract",
+        photo: "https://i.ibb.co/MpHVJnj/profile-pic-2.jpg",
+        github: "https://github.com/Aadityapai",
     },
     {
         teamname: "Avyakt",
