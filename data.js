@@ -173,14 +173,14 @@ const team = [
         photo: "Your image url",
         github: "Your github profile url",
     },
-    {
+    { 
         teamname: "Avyakt",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Sangeetha Prabhu",
+        college: "B.M.S Institute Of Technology",
+        batch: 2020,
+        quote: "Zestful Learner With A Smiling Heart!!",
+        photo: "https://i.ibb.co/Cm4rSXb/1632072967595.jpg",
+        github: "https://github.com/SangeethaPrabhu2021",
     },
     {
         teamname: "Avyakt",
