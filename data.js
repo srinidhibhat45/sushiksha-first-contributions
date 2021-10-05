@@ -918,12 +918,12 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Shivam Mishra",
+        college: "Pearson University",
+        batch: 2021,
+        quote: "Be honest!!",
+        photo: "https://i.ibb.co/KKQxMX6/SHivam.png",
+        github: "https://github.com/Shivamam",
     },
     {
         teamname: "Udhbhav",
