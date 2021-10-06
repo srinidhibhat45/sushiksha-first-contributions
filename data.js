@@ -401,12 +401,12 @@ const team = [
   },
   {
     teamname: "Lakshy",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Kartik Mahale",
+    college: "Shree dharmasthala majunatheshwara college of engineering and technology",
+    batch: 2019,
+    quote: "Look in the mirror...That's your competition",
+    photo: "https://i.ibb.co/XxpV7Vx/kartik.jpg",
+    github: "https://github.com/karthik7-geek",
   },
   {
     teamname: "Lakshy",
