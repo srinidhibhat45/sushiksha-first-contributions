@@ -1207,7 +1207,7 @@ const team = [
     college: "PayPal India Pvt. Ltd",
     batch: 2011,
     quote: "I am Batman",
-    photo: "Your image url",
+    photo: "https://i.ibb.co/JQkZMP1/vanky.jpg",
     github: "https://github.com/venkateshprabhu2/",
   },
   {
