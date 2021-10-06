@@ -1,5 +1,5 @@
 const team = [
-    //Adhwithiya
+    // Adhwithiya
 
     {
         teamname: "Adhwithiya",
