@@ -763,14 +763,14 @@ const team = [
     github: "https://github.com/prongs651",
   },
   {
-    teamname: "Saksham",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
-  },
+     teamname: "Saksham",
+     name: "Kavita Satish Kamath",
+     college: "Canara Engineering College",
+     batch: 2019,
+     quote: "You are always one decision away from a totally different life",
+     photo: "https://i.ibb.co/N3x6zdq/kavita.jpg",
+     github: "https://github.com/Kavita-Kamath07",
+   },
   {
     teamname: "Saksham",
     name: "Name",
@@ -816,7 +816,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
   //Siddhanth
   {
     teamname: "Siddhanth",
