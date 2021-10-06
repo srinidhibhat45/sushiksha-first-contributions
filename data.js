@@ -1203,12 +1203,12 @@ const team = [
 
   {
     teamname: "Sushiksha",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
+    name: "Venkatesh Prabhu",
+    college: "PayPal India Pvt. Ltd",
+    batch: 2011,
+    quote: "I am Batman",
     photo: "Your image url",
-    github: "Your github profile url",
+    github: "https://github.com/venkateshprabhu2/",
   },
   {
     teamname: "Sushiksha",
