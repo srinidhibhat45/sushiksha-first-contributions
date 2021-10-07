@@ -13,12 +13,12 @@ const team = [
 
   {
     teamname: "Adhwithiya",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Ananya R Prabhu",
+    college: "JSS SCIENCE AND TECHNOLOGY UNIVERSITY",
+    batch: 2019,
+    quote: "Seize the day!",
+    photo: "https://i.ibb.co/v3BdGCB/anya-profile.jpg",
+    github: "https://github.com/AnanyaRPrabhu",
   },
   {
     teamname: "Adhwithiya",
