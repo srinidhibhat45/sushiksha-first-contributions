@@ -309,7 +309,7 @@ const team = [
   {
     teamname: "Kshitij",
     name: "Vaishnavi Hegde",
-    college: "NITTE",
+    college: "NMAMIT, Nitte",
     batch: 2019,
     quote: "Love the Life you Live",
     photo: "https://i.ibb.co/rb5j6St/vaishnavi.jpg",
