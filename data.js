@@ -13,12 +13,12 @@ const team = [
 
   {
     teamname: "Adhwithiya",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Ananya R Prabhu",
+    college: "JSS SCIENCE AND TECHNOLOGY UNIVERSITY",
+    batch: 2019,
+    quote: "Seize the day!",
+    photo: "https://i.ibb.co/v3BdGCB/anya-profile.jpg",
+    github: "https://github.com/AnanyaRPrabhu",
   },
   {
     teamname: "Adhwithiya",
@@ -29,6 +29,15 @@ const team = [
       "Life is not a problem to be solved, but a reality to be experienced",
     photo: "https://i.ibb.co/0KZWwMd/shreyas-profile.jpg",
     github: "https://github.com/shreyas12345678",
+  },
+  {
+    teamname: "Adhwithiya",
+    name: "K Avinash Nayak",
+    college: "Manipal Institute of Technology",
+    batch: 2019,
+    quote: "If you can dream, you can do it",
+    photo: "https://ibb.co/MB4TVtb",
+    github: "https://github.com/kan12340987",
   },
   {
     teamname: "Adhwithiya",
@@ -299,12 +308,12 @@ const team = [
   //Kshitij
   {
     teamname: "Kshitij",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Vaishnavi Hegde",
+    college: "NMAMIT, Nitte",
+    batch: 2019,
+    quote: "Love the Life you Live",
+    photo: "https://i.ibb.co/rb5j6St/vaishnavi.jpg",
+    github: "https://github.com/vaishnavihegde",
   },
   {
     teamname: "Kshitij",
@@ -410,12 +419,12 @@ const team = [
   },
   {
     teamname: "Lakshy",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Prateeksha Vasant Pai",
+    college: "Shree Dharmasthala Majunatheshwara College of Engineering and Technology",
+    batch: 2019,
+    quote: "Build your dreams or else someone will hire you to build their dreams",
+    photo: "https://i.ibb.co/zJbjDyQ/Whats-App-Image-2021-10-08-at-6-05-59-PM.jpg",
+    github: "https://github.com/PrateekshaPai",
   },
   {
     teamname: "Lakshy",
@@ -594,7 +603,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
   //Prakhyath
   {
     teamname: "Prakhyath",
@@ -763,14 +771,14 @@ const team = [
     github: "https://github.com/prongs651",
   },
   {
-    teamname: "Saksham",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
-  },
+     teamname: "Saksham",
+     name: "Kavita Satish Kamath",
+     college: "Canara Engineering College",
+     batch: 2019,
+     quote: "You are always one decision away from a totally different life",
+     photo: "https://i.ibb.co/N3x6zdq/kavita.jpg",
+     github: "https://github.com/Kavita-Kamath07",
+   },
   {
     teamname: "Saksham",
     name: "Name",
@@ -816,7 +824,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
   //Siddhanth
   {
     teamname: "Siddhanth",
@@ -883,12 +890,12 @@ const team = [
   },
   {
     teamname: "Siddhanth",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Sandesha Dsouza",
+    college: "Canara Engineering College Mangalore",
+    batch: 2019,
+    quote: "Never dream for success, but work for it",
+    photo: "https://i.ibb.co/NjrBcD7/Sandesh-copy.jpg",
+    github: "https://github.com/Sandeshadsouza",
   },
 
   //Udhbhav
