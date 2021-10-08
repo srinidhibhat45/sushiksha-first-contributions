@@ -667,7 +667,15 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
+ {
+    teamname: "Prakhyath",
+    name: "Harsha",
+    college: "Gujarat Technoligical University",
+    batch: 2024,
+    quote: "Shine bright like a diamond",
+    photo: "https://ibb.co/7zJLrN8",
+    github: "https://github.com/bajajharsha",
+  },
   //Sadhbhav
   {
     teamname: "Sadhbhav",
