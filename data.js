@@ -594,7 +594,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
   //Prakhyath
   {
     teamname: "Prakhyath",
@@ -882,12 +881,12 @@ const team = [
   },
   {
     teamname: "Siddhanth",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Sandesha Dsouza",
+    college: "Canara Engineering College Mangalore",
+    batch: 2019,
+    quote: "Never dream for success, but work for it",
+    photo: "https://i.ibb.co/NjrBcD7/Sandesh-copy.jpg",
+    github: "https://github.com/Sandeshadsouza",
   },
 
   //Udhbhav
