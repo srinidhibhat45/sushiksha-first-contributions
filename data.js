@@ -420,9 +420,9 @@ const team = [
   {
     teamname: "Lakshy",
     name: "Prateeksha Vasant Pai",
-    college: "Shree dharmasthala majunatheshwara college of engineering and technology",
+    college: "Shree Dharmasthala Majunatheshwara College of Engineering and Technology",
     batch: 2019,
-    quote: "Build your dreams or else someone will hier you to build their dreams",
+    quote: "Build your dreams or else someone will hire you to build their dreams",
     photo: "https://i.ibb.co/zJbjDyQ/Whats-App-Image-2021-10-08-at-6-05-59-PM.jpg",
     github: "https://github.com/PrateekshaPai",
   },
