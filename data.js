@@ -32,6 +32,15 @@ const team = [
   },
   {
     teamname: "Adhwithiya",
+    name: "K Avinash Nayak",
+    college: "Manipal Institute of Technology",
+    batch: 2019,
+    quote: "If you can dream, you can do it",
+    photo: "https://ibb.co/MB4TVtb",
+    github: "https://github.com/kan12340987",
+  },
+  {
+    teamname: "Adhwithiya",
     name: "Khushi Vaikunt Raikar",
     college: "SDM College Of Engineering and Technology Dharwad",
     batch: 2019,
