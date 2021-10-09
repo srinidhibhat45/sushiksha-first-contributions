@@ -36,7 +36,7 @@ const team = [
     college: "Manipal Institute of Technology",
     batch: 2019,
     quote: "If you can dream, you can do it",
-    photo: "https://ibb.co/MB4TVtb",
+    photo: "https://i.ibb.co/FHMvwy9/TU6-DMV20-H-U011-TLPN4-HK-856818baf088-192.jpg",
     github: "https://github.com/kan12340987",
   },
   {
