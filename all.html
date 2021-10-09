@@ -105,7 +105,9 @@
       
 
       document.getElementById("members").innerHTML = `
-            <p class="footer">There ${alldata.length} members were added recently. Check back soon for updates.</p>
+        <button type="button" class="btn btn-danger btn-large">
+          Total Members Added: <span style="font-size: 25px" class="badge badge-light">${alldata.length}</span>
+        </button>
           `;
 
       document.getElementById("app").innerHTML = `
