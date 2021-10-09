@@ -90,8 +90,10 @@
       </div>
     </nav>
 
+   
     <div class="container profile-page">
       <div class="row">
+        <div id="members" class="mx-auto pt-5"></div>
         <div class="mx-auto" id="app"></div>
       </div>
     </div>
@@ -100,10 +102,16 @@
     <script>
       var data_filter = team.filter((element) => element.name !== "Name");
       var alldata = data_filter.reverse();
+      
+
+      document.getElementById("members").innerHTML = `
+            <p class="footer">There ${alldata.length} members were added recently. Check back soon for updates.</p>
+          `;
 
       document.getElementById("app").innerHTML = `
             ${alldata.map(memberTemplate).join("")}
           `;
+          
     </script>
     <script src="assets/js/app.js"></script>
   </body>
