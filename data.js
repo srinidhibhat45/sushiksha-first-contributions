@@ -76,15 +76,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-  {
-    teamname: "Adhwithiya",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
-  },
   //Arghya
   {
     teamname: "Arghya",
