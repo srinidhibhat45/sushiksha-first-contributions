@@ -928,7 +928,7 @@ const team = [
         batch: 2020,
         quote: "Make everyday a little less ordinary",
         photo: "https://i.ibb.co/YpXRjVV/hrithik.jpg",
-        github: " ",
+        github: "www.github.com",
     },
     {
         teamname: "Udhbhav",
