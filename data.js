@@ -456,12 +456,12 @@ const team = [
     },
     {
         teamname: "Navikaran",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Hrithika S Pai",
+        college: "Adi Shankara Institute of Engineering and Technology ",
+        batch: 2019,
+        quote: "Do things that makes you happy ",
+        photo: "https://i.ibb.co/tpcV55z/IMG-20200419-191634-971.jpg",
+        github: "https://github.com/Hrithikapai",
     },
     {
         teamname: "Navikaran",
