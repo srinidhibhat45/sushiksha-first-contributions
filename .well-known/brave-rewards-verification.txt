@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sushiksha.netlify.app
+Token: 03e6ab223eb70429692b18118c4be339171c4405c693971129b70fadf7403a73

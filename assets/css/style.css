@@ -257,6 +257,17 @@ i {
     grid-template-columns: 1fr 1fr;
   }
 }
+@media only screen and (max-width: 780px) {
+  .footer-container {
+    flex-direction: column;
+  }
+  .footer-container img {
+    width: 100px;
+  }
+  .social-links ul {
+    padding: 0;
+  }
+}
 @media only screen and (max-width: 760px) {
   .cards-list {
     grid-template-columns: 1fr;
@@ -272,8 +283,8 @@ i {
     padding: 10px;
   }
   .navbar-logo img {
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     padding: 0;
   }
 }
@@ -309,4 +320,43 @@ a:hover {
 .markdownsheet {
   padding: 50px 200px;
   color: white !important;
+}
+/* Footer */
+footer {
+  background-color: rgb(202, 201, 186);
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vw;
+  margin: 0 auto;
+}
+.footer-title {
+  padding: 20px;
+}
+
+.social-links ul {
+  display: flex;
+  align-items: center;
+}
+.social-links ul li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  background-color: #f74700ff;
+  border-radius: 100px;
+  margin: 5px;
+  transition: all 0.5s ease-in;
+}
+.social-links ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  align-self: center;
+  padding-left: 8px;
+}
+.social-links ul li:hover {
+  transform: scale(1.1);
 }
