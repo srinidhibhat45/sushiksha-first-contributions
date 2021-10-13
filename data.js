@@ -451,20 +451,19 @@ const team = [
     name: "Bhargavi Nayak",
     college: "NMAM Institute of Technology",
     batch: 2019,
-    quote:
-      "Don't rest, start the HacktoberFest with full on zest and get the best out of it!",
+    quote:"Don't rest, start the HacktoberFest with full on zest and get the best out of it!",
     photo: "https://i.ibb.co/XL6mnp6/IMG-20201205-WA0017.jpg",
     github: "https://github.com/Bhargavi09",
   },
   {
-    teamname: "Navikaran",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
-  },
+     teamname: "Navikaran",
+     name: "Hrithika S Pai",
+     college: "Adi Shankara Institute of Engineering and Technology ",
+     batch: 2019,
+     quote: "Do things that makes you happy ",
+     photo: "https://i.ibb.co/tpcV55z/IMG-20200419-191634-971.jpg",
+     github: "https://github.com/Hrithikapai",
+   },
   {
     teamname: "Navikaran",
     name: "Name",
@@ -519,6 +518,7 @@ const team = [
     photo: "https://i.ibb.co/9Zby0ps/Ashlesh-shenoy.jpg",
     github: "https://github.com/ashleshshenoy",
   },
+
 
   //Ojas
   {
@@ -667,7 +667,6 @@ const team = [
     photo: "Your image url",
     github: "Your github profile url",
   },
-
   //Sadhbhav
   {
     teamname: "Sadhbhav",
