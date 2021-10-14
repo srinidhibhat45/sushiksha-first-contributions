@@ -174,7 +174,7 @@ const team = [
     college: "BMS INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
     batch: 2020,
     quote: "Nothing Shakes a smiling heart :)",
-    photo: "<a href="https://ibb.co/y6CywwS"><img src="https://i.ibb.co/Cby7kk2/Screenshot-20200424-143029-1.png" alt="Screenshot-20200424-143029-1" border="0"></a>",
+    photo: "<a href="https://ibb.co/y6CywwS"><img src="https://i.ibb.co/Cby7kk2/Screenshot-20200424-143029-1.png", 
     github: "https://github.com/SangeethaPrabhu2021",
   },
   {
