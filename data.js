@@ -595,6 +595,15 @@ const team = [
     github: "Your github profile url",
   },
   //Prakhyath
+    {
+    teamname: "Prakhyath",
+    name: "Name",
+    college: "Your College",
+    batch: 2016,
+    quote: "Your quote",
+    photo: "Your image url",
+    github: "Your github profile url",
+  },
   {
     teamname: "Prakhyath",
     name: "Prathviraj Prabhu",
@@ -612,15 +621,6 @@ const team = [
     quote: "Learning is the most important currency and anyone can be rich",
     photo: "https://i.ibb.co/qFyDtWR/IMG-20201106-192353.jpg",
     github: "https://github.com/Apoorva77",
-  },
-  {
-    teamname: "Prakhyath",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
   },
   {
     teamname: "Prakhyath",
