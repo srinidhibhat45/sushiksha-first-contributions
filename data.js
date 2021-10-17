@@ -308,12 +308,12 @@ const team = [
   },
   {
     teamname: "Kshitij",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Krishna Shenoy S",
+    college: "University Visvesvaraya College of Engineering UVCE, Bangalore",
+    batch: 2019,
+    quote: "Just Do It",
+    photo: "https://i.ibb.co/h1ZPzrn/photo.jpg",
+    github: "https://github.com/krishnashenoy123",
   },
   {
     teamname: "Kshitij",
