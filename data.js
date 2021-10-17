@@ -69,12 +69,12 @@ const team = [
   },
   {
     teamname: "Adhwithiya",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Prajwal Sajan Moras",
+    college: "The National Institute Of Engineering",
+    batch: 2020,
+    quote: "We have two lives,and the second begins when we realize we only have one.",
+    photo: "https://i.ibb.co/SdrvdGX/IMG-6784.jpg",
+    github: "https://github.com/sajan-moras",
   },
   //Arghya
   {
