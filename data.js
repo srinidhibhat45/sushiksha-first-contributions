@@ -771,12 +771,12 @@ const team = [
   },
   {
     teamname: "Saksham",
-    name: "Name",
-    college: "Your College",
-    batch: 2016,
-    quote: "Your quote",
-    photo: "Your image url",
-    github: "Your github profile url",
+    name: "Ashwin  A Shanbhag",
+    college: "Nitte Meenakshi Institute Of Technology",
+    batch: 2019,
+    quote: "The More You Sweat in Practice, the Less You Bleed in Battle",
+    photo: "https://i.ibb.co/XjyKcWm/pic.jpg",
+    github: "https://github.com/AshwinShanbhag",
   },
   {
     teamname: "Saksham",
