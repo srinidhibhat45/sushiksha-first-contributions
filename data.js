@@ -78,12 +78,12 @@ const team = [
     //Arghya
     {
         teamname: "Arghya",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Ayush Kumar Singh",
+        college: "Netaji Subhas University of Technology",
+        batch: 2022,
+        quote: "Always remember that you are absolutely unique, just like everyone else.",
+        photo: "https://i.ibb.co/80py6vN/MyPhoto.jpg",
+        github: "https://github.com/Ayush-KS",
     },
     {
         teamname: "Arghya",
@@ -704,7 +704,7 @@ const team = [
     {
         teamname: "Sadhbhav",
         name: "Anjani Prabhu K",
-        college: "N.M.A.M. Institute of Technology",",
+        college: "N.M.A.M. Institute of Technology",
         batch: 2019,
         quote: "Be a flamingo in the flock of pigeons",
         photo: "https://i.ibb.co/RTN8zvW/DSC-2372-Copy-2.jpg",
