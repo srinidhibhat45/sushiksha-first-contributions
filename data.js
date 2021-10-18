@@ -814,7 +814,7 @@ const team = [
     //Siddhanth
     {
         teamname: "Siddhanth",
-        name: "Shravya Mallya",
+        name: "Shravya S Mallya",
         college: "MIT Manipal",
         batch: 2019,
         quote: "You are free, and that is why you are lost.",
