@@ -782,7 +782,7 @@ const team = [
         batch: 2020,
         quote: "Defeat is not when you fall down but it is when you refuse to get up",
         photo: "https://ca.slack-edge.com/TU6DMV20H-U028ADXE0DB-a9ab272b4250-512",
-        github: "Your github profile url",
+        github: "www.github.com",
     },
     {
         teamname: "Saksham",
