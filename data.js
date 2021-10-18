@@ -704,7 +704,7 @@ const team = [
     {
         teamname: "Sadhbhav",
         name: "Anjani Prabhu K",
-        college: "N.M.A.M. Institute of Technology",",
+        college: "N.M.A.M. Institute of Technology",
         batch: 2019,
         quote: "Be a flamingo in the flock of pigeons",
         photo: "https://i.ibb.co/RTN8zvW/DSC-2372-Copy-2.jpg",
