@@ -823,12 +823,12 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Priyanka Kudva",
+        college: "N.M.A.M. Institute Technology",
+        batch: 2019,
+        quote: "The purpose of our lives is to be happy",
+        photo: "https://i.ibb.co/P1XCskK/Whats-App-Image-2021-10-18-at-9-43-44-PM.jpg",
+        github: "http://github.com/PriyankaKudva",
     },
     {
         teamname: "Siddhanth",
