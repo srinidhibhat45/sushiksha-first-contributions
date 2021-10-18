@@ -178,12 +178,12 @@ const team = [
     },
     {
         teamname: "Avyakt",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Udyavara Vasundhara Shenoy",
+        college: "N.M.A.M. Institute of Technology",
+        batch: 2019,
+        quote: "When you cease to dream you cease to live.",
+        photo: "https://i.ibb.co/Sw3h8sf/vasundharashenoy-20210830-172012-0.jpg",
+        github: "https://github.com/VasundharaShenoy",
     },
     {
         teamname: "Avyakt",
