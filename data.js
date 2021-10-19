@@ -464,12 +464,12 @@ const team = [
     },
     {
         teamname: "Navikaran",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Jaideep Shriram Prabhu",
+        college: "National Institute of Engineering Mysuru",
+        batch: 2020,
+        quote: "Nature and Peace brings smile",
+        photo: "https://i.ibb.co/vLZD1L4/IMG-20210917-WA0052.jpg",
+        github: "https://github.com/JAIDEEPRABHU",
     },
     {
         teamname: "Navikaran",
