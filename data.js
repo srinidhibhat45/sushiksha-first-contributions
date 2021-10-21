@@ -832,12 +832,12 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Arpita Nayak",
+        college: "SDM engineering college,Dharwad",
+        batch: 2020,
+        quote: "Life is what happens when you're busy making other plans.",
+        photo: "https://res.cloudinary.com/dolizx6ib/image/upload/v1634822572/IMG_20210407_174827_ozjsfm.jpg",
+        github: "https://github.com/Arpitanayak77",
     },
     {
         teamname: "Siddhanth",
