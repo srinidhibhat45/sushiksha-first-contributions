@@ -835,7 +835,7 @@ const team = [
         name: "Arpita Nayak",
         college: "SDM engineering college,Dharwad",
         batch: 2020,
-        quote: "Life is what happens when you're busy making other plans.",
+        quote: "Life is what happens when you're busy making other plans",
         photo: "https://res.cloudinary.com/dolizx6ib/image/upload/v1634822572/IMG_20210407_174827_ozjsfm.jpg",
         github: "https://github.com/Arpitanayak77",
     },
