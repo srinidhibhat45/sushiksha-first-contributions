@@ -745,7 +745,7 @@ const team = [
         college: "Sahyadri College of Engineering and Management",
         batch: 2019,
         quote: "We learn together to grow together!",
-        photo: "https://tinyurl.com/yvv85yku",
+        photo: "https://i.ibb.co/gzr1xyF/1631039307521.jpg",
         github: "https://github.com/keerthi-kamath",
     },
     {
@@ -754,7 +754,7 @@ const team = [
         college: "B.M.S.College of Engineering",
         batch: 2020,
         quote: "It's our choices that define us more than our abilities",
-        photo: "https://tinyurl.com/4kzx9vkx",
+        photo: "https://i.ibb.co/ZK1T7bR/1632807161920.jpg",
         github: "https://github.com/prongs651",
     },
     {
@@ -786,12 +786,12 @@ const team = [
     },
     {
         teamname: "Saksham",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Mohan Nayak",
+        college: "National Institute of Technology Karnataka,Surathkal",
+        batch: 2020,
+        quote: "Work and you’ll get what you need; work harder and you’ll get what you want.",
+        photo: "https://i.ibb.co/tHZdF5d/Mohan-Nayak.png",
+        github: "https://github.com/Mohan4Nayak",
     },
     {
         teamname: "Saksham",
