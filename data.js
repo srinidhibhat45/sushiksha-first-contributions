@@ -491,12 +491,12 @@ const team = [
     },
     {
         teamname: "Navikaran",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Svadhi Shenoy",
+        college: "Manipal Institute of Technology",
+        batch: 2019,
+        quote: "Life is what happens when you're busy making other plans",
+        photo: "https://ibb.co/1mzv0mG",
+        github: "https://github.com/svadhishenoy95",
     },
     {
         teamname: "Navikaran",
