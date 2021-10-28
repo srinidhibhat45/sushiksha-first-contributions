@@ -998,12 +998,12 @@ const team = [
     },
     {
         teamname: "Udvikas",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Namratha Nayak",
+        college: "NMAM INSTITUTE OF TECHNOLOGY",
+        batch: 2019,
+        quote: "Be confident",
+        photo: "https://i.ibb.co/6Nhdydt/headshot.jpg",
+        github: "https://github.com/Namratha-Nayak67",
     },
     {
         teamname: "Udvikas",
