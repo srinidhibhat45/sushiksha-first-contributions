@@ -841,12 +841,12 @@ const team = [
     },
     {
         teamname: "Siddhanth",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Sujatha Bhat",
+        college: "University Visveswaraya College of Engineering, Bangalore",
+        batch: 2020,
+        quote: "Believe in yourself to make the impossible become possible",
+        photo: "https://i.ibb.co/WV2txdR/sujathabhat.jpg",
+        github: "https://github.com/SujathaBhat",
     },
     {
         teamname: "Siddhanth",
