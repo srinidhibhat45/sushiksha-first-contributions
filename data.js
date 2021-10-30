@@ -667,12 +667,12 @@ const team = [
     //Sadhbhav
     {
         teamname: "Sadhbhav",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Ananth G Prabhu",
+        college: "BMS COllege of Engineering",
+        batch: 2019,
+        quote: "Every champion was once a contender who refused to give up ",
+        photo: "https://i.ibb.co/ZHXyb62/Screenshot-52.png",
+        github: "https://github.com/Ananth3A1",
     },
     {
         teamname: "Sadhbhav",
