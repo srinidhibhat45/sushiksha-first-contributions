@@ -530,12 +530,12 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Prateek Nayak",
+        college: "Bangalore Institute of Technology",
+        batch: 2019,
+        quote: "In life and business, if you want to go fast, go alone; if you want to go far, go together!",
+        photo: "https://avatars.githubusercontent.com/u/53167937?v=4",
+        github: "https://github.com/Prateek-Nayak",
     },
     {
         teamname: "Ojas",
