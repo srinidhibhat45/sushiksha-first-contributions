@@ -539,12 +539,12 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Sathvik S Shet",
+        college: "New Horizon College of Engineering",
+        batch: 2020,
+        quote: "Calm and attentive",
+        photo: "https://sushiksha.konkanischolarship.com/media/profile_pics/1626436606006-01.jpeg",
+        github: "https://github.com/sathvik-24",
     },
     {
         teamname: "Ojas",
