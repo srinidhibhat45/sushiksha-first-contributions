@@ -548,12 +548,12 @@ const team = [
     },
     {
         teamname: "Ojas",
-        name: "Name",
-        college: "Your College",
-        batch: 2016,
-        quote: "Your quote",
-        photo: "Your image url",
-        github: "Your github profile url",
+        name: "Murali Krishna V Hegde",
+        college: "The National Institute of Engineering",
+        batch: 2020,
+        quote: "Talk less work more",
+        photo: "https://sushiksha.konkanischolarship.com/media/profile_pics/IMG_20210521_205104.jpg",
+        github: "https://github.com/2020EC0042",
     },
     {
         teamname: "Ojas",
