@@ -1255,4 +1255,13 @@ const team = [
         photo: "Your image url",
         github: "Your github profile url",
     },
+    {
+        teamname: "URS",
+        name: "Rohit Soni",
+        college: "Lakshmi Narain College Of Technology Bhopal",
+        batch: 2025,
+        quote: "Life Is What You Make It.",
+        photo: "https://i.ibb.co/WWCh599/instadp-rohitsoni-full-size-removebg-preview-1.png",
+        github: "https://github.com/rohitsoniinfo",
+    },
 ];
