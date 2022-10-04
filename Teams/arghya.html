@@ -1,58 +1,126 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="shortcut icon" href="../assets/img/Hacktoberfest icon.svg" type="image/x-icon">
-    <link rel="shortcut icon" href="assets/img/Hacktoberfest icon.svg" type="image/x-icon">
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
-    
-    <script src="https://kit.fontawesome.com/3aa31213fd.js" crossorigin="anonymous"></script>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link
+      rel="shortcut icon"
+      href="../assets/img/Hacktoberfest icon.svg"
+      type="image/x-icon"
+    />
+    <link
+      rel="shortcut icon"
+      href="assets/img/Hacktoberfest icon.svg"
+      type="image/x-icon"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+      integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://kit.fontawesome.com/3aa31213fd.js"
+      crossorigin="anonymous"
+    ></script>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-    <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../assets/css/card.css">
-    
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+      integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/card.css" />
+
     <title>Arghya</title>
   </head>
   <body>
-     <nav class="navbar navbar-expand-custom navbar-mainbg">
-        <a style="color:black;"class="navbar-brand navbar-logo ml-5 pl-5" href="../index.html"><img style="height: 40px" src="../photo/arghya-logo.png" alt="Arghya Logo">Arghya</a>
-        <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars text-white"></i>
-        </button>
-        <div class="collapse navbar-collapse mr-5" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto mr-5">
-                <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
-                <li class="nav-item">
-                    <a class="nav-link active" href="../index.html"><i class="fas fa-users"></i>Teams</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="../contribute.html"><i class="fas fa-question"></i>How to Contribute?</a>
-                </li>
-            </ul>
-        </div>
+    <nav class="navbar navbar-expand-custom navbar-mainbg">
+      <a
+        style="color: black"
+        class="navbar-brand navbar-logo ml-5 pl-5"
+        href="../index.html"
+        ><img
+          style="height: 40px"
+          src="../photo/arghya-logo.png"
+          alt="Arghya Logo"
+        />Arghya</a
+      >
+      <button
+        class="navbar-toggler"
+        type="button"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        onclick="toggleME()"
+      >
+        <i class="fas fa-bars text-black"></i>
+      </button>
+      <div class="collapse navbar-collapse mr-5" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto mr-5">
+          <div class="hori-selector">
+            <div class="left"></div>
+            <div class="right"></div>
+          </div>
+          <li class="nav-item">
+            <a class="nav-link active" href="../index.html"
+              ><i class="fas fa-user-shield"></i>Teams</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../all.html"
+              ><i class="fas fa-users"></i>Sophists</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../contribute.html"
+              ><i class="fas fa-question"></i>How to Contribute?</a
+            >
+          </li>
+        </ul>
+      </div>
     </nav>
 
-    
-  <div class="container profile-page ">
-    <div class="row">
-    <div class="" id="app"></div>
-            </div>
+    <div class="container profile-page">
+      <div class="row">
+        <div class="mx-auto" id="app"></div>
+      </div>
     </div>
     <script src="../data.js"></script>
     <script src="../assets/js/app.js"></script>
     <script>
-            
-          var data_filter = team.filter( element => element.teamname =="Arghya")
-          console.log(data_filter)
-          
-          document.getElementById("app").innerHTML = `
+      var data_filter = team.filter((element) => element.teamname == "Arghya");
+      console.log(data_filter);
+
+      document.getElementById("app").innerHTML = `
             ${data_filter.map(memberTemplate).join("")}
           `;
-          
     </script>
     <script src="../assets/js/app.js"></script>
   </body>
+  <script src="../components/footer.js"></script>
+  <script>
+    document
+      .querySelector("body")
+      .insertAdjacentHTML(
+        "beforeend",
+        footer(
+          "../assets/img/hacktoberfest.svg",
+          "../assets/img/Sophists_black.svg"
+        )
+      );
+  </script>
 </html>

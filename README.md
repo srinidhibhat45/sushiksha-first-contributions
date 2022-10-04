@@ -101,7 +101,7 @@ Simple Static Website built using HTML, CSS and JavaScript and hosted on Netlify
 
       In Windows
       ```bash
-      cd Users/UserName/Desktop
+      cd Users/<UserName>/Desktop
       ```
 
       *For Linux or MacOS users, please refer the official documentation.*

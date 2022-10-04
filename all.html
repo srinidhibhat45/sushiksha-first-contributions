@@ -37,23 +37,24 @@
       integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="../assets/css/style.css" />
-    <link rel="stylesheet" href="../assets/css/card.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/card.css" />
 
-    <title>Vivaan</title>
+    <title>Sophists</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-custom navbar-mainbg">
-      <a
-        style="color: black"
-        class="navbar-brand navbar-logo ml-5 pl-5"
-        href="../index.html"
+      <a class="navbar-brand navbar-logo ml-2" href="index.html"
         ><img
-          style="height: 40px"
-          src="../photo/vivaan-logo.png"
-          alt="Vivaan Logo"
-        />Vivaan</a
-      >
+          style="height: 80px"
+          src="assets/img/hacktoberfest.svg"
+          alt="hacktoberfest logo" /></a
+      ><i class="fas fa-times"></i
+      ><img
+        style="height: 90px"
+        src="assets/img/Sophists black.svg"
+        alt="sophists black logo"
+      />
       <button
         class="navbar-toggler"
         type="button"
@@ -71,17 +72,17 @@
             <div class="right"></div>
           </div>
           <li class="nav-item">
-            <a class="nav-link active" href="../index.html"
+            <a class="nav-link" href="index.html"
               ><i class="fas fa-user-shield"></i>Teams</a
             >
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../all.html"
+          <li class="nav-item active">
+            <a class="nav-link" href="all.html"
               ><i class="fas fa-users"></i>Sophists</a
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../contribute.html"
+            <a class="nav-link" href="contribute.html"
               ><i class="fas fa-question"></i>How to Contribute?</a
             >
           </li>
@@ -89,33 +90,40 @@
       </div>
     </nav>
 
+   
     <div class="container profile-page">
       <div class="row">
+        <div id="members" class="mx-auto pt-5"></div>
         <div class="mx-auto" id="app"></div>
       </div>
     </div>
-    <script src="../data.js"></script>
-    <script src="../assets/js/app.js"></script>
+    <script src="data.js"></script>
+    <script src="assets/js/app.js"></script>
     <script>
-      var data_filter = team.filter((element) => element.teamname == "Vivaan");
-      console.log(data_filter);
+      var data_filter = team.filter((element) => element.name !== "Name");
+      var alldata = data_filter.reverse();
+      
+
+      document.getElementById("members").innerHTML = `
+        <button type="button" class="btn btn-danger btn-large">
+          Total Members Added: <span style="font-size: 25px" class="badge badge-light">${alldata.length}</span>
+        </button>
+          `;
 
       document.getElementById("app").innerHTML = `
-            ${data_filter.map(memberTemplate).join("")}
+            ${alldata.map(memberTemplate).join("")}
           `;
+          
     </script>
-    <script src="../assets/js/app.js"></script>
+    <script src="assets/js/app.js"></script>
   </body>
-  <script src="../components/footer.js"></script>
+  <script src="components/footer.js"></script>
   <script>
     document
       .querySelector("body")
       .insertAdjacentHTML(
         "beforeend",
-        footer(
-          "../assets/img/hacktoberfest.svg",
-          "../assets/img/Sophists_black.svg"
-        )
+        footer("assets/img/hacktoberfest.svg", "assets/img/Sophists_black.svg")
       );
   </script>
 </html>
