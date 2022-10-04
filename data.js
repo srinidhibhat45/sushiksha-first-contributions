@@ -228,7 +228,7 @@ const team = [
         college: "RV College of Engineering",
         batch: 2019,
         quote: "If you can dream it. You can do it.",
-        photo: "https://i.ibb.co/VgQKKGW/0-G0-A8528-2.jpg",
+        photo: "https://i.ibb.co/WcDwcrF/PRANEETH.jpg",
         github: "https://github.com/18praneeth",
     },
     {
